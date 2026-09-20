@@ -1,0 +1,309 @@
+{
+  "updates": [
+    {
+      "label": "TF_R02_0197_SM_Debris01",
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 37
+      },
+      "t": {
+        "p": [
+          -142.19253179306997,
+          -527.8605873255815,
+          3.6531982421875
+        ],
+        "r": [
+          -0.0,
+          -119.44543290304529,
+          -0.0
+        ],
+        "s": [
+          1.0000000047194053,
+          1.0000000047194053,
+          1.0
+        ]
+      },
+      "group": "R2_loose_104"
+    },
+    {
+      "label": "TF_R02_0198_SM_Debris01",
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 38
+      },
+      "t": {
+        "p": [
+          -134.5185552332777,
+          -537.2262594078218,
+          3.6531982421875
+        ],
+        "r": [
+          -0.0,
+          -164.44543720393938,
+          -0.0
+        ],
+        "s": [
+          1.0000000449330233,
+          1.0000000449330233,
+          1.0
+        ]
+      },
+      "group": "R2_loose_105"
+    },
+    {
+      "label": "TF_R03_0201_SM_AutopsyTable01",
+      "source": {
+        "actor": "SM_AutopsyTable01HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "t": {
+        "p": [
+          510.0,
+          -194.0,
+          0.0
+        ],
+        "r": [
+          0.0,
+          0.0,
+          -0.0
+        ],
+        "s": [
+          0.9999998807907744,
+          0.9999998807907744,
+          1.0
+        ]
+      },
+      "group": "R3_SM_AutopsyTable01HISMA_0"
+    },
+    {
+      "label": "TF_R03_0202_SM_Sink01",
+      "source": {
+        "actor": "SM_Sink01HISMA_932",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "t": {
+        "p": [
+          641.6635742187198,
+          -194.00010810880948,
+          0.0
+        ],
+        "r": [
+          -0.0,
+          -179.99998974347574,
+          -0.0
+        ],
+        "s": [
+          0.9999999403954991,
+          0.9999999403954991,
+          1.0
+        ]
+      },
+      "group": "R3_SM_AutopsyTable01HISMA_0"
+    },
+    {
+      "label": "TF_R03_0203_SM_Cloth01_6",
+      "source": {
+        "actor": "SM_Cloth01_6HISMA_957",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "t": {
+        "p": [
+          482.4304209840353,
+          -191.02916494774084,
+          83.87078857421875
+        ],
+        "r": [
+          0.0,
+          -24.805428064665065,
+          -0.0
+        ],
+        "s": [
+          0.35954004798142264,
+          0.35954004798142264,
+          0.19246703386306763
+        ]
+      },
+      "group": "R3_SM_AutopsyTable01HISMA_0"
+    },
+    {
+      "label": "TF_R03_0276_SM_MedicalTable01",
+      "source": {
+        "actor": "SM_MedicalTable01HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "t": {
+        "p": [
+          820.0,
+          -50.0,
+          0.3021240234375
+        ],
+        "r": [
+          0.0,
+          14.0,
+          -0.0
+        ],
+        "s": [
+          1.0000000397922912,
+          1.0000000397922912,
+          1.0
+        ]
+      },
+      "group": "R3_SM_MedicalTable01HISMA_1"
+    },
+    {
+      "label": "TF_R03_0277_SM_MedicalInstrument01_6",
+      "source": {
+        "actor": "SM_MedicalInstrument01_6HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "t": {
+        "p": [
+          806.0808020893421,
+          -48.203824083159176,
+          85.3404541015625
+        ],
+        "r": [
+          -0.0,
+          -110.36466284093689,
+          -0.0
+        ],
+        "s": [
+          1.0000000025194518,
+          1.0000000025194518,
+          1.0
+        ]
+      },
+      "group": "R3_SM_MedicalTable01HISMA_1"
+    },
+    {
+      "label": "TF_R03_0278_SM_MedicalInstrument01_5",
+      "source": {
+        "actor": "SM_MedicalInstrument01_5HISMA_997",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "t": {
+        "p": [
+          822.6911338843603,
+          -42.38969838466432,
+          85.3404541015625
+        ],
+        "r": [
+          0.0,
+          -90.38349207711909,
+          -0.0
+        ],
+        "s": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      "group": "R3_SM_MedicalTable01HISMA_1"
+    },
+    {
+      "label": "TF_R03_0279_SM_MedicalInstrument01_5",
+      "source": {
+        "actor": "SM_MedicalInstrument01_5HISMA_997",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "t": {
+        "p": [
+          830.9104113871017,
+          -48.13810782021483,
+          85.3404541015625
+        ],
+        "r": [
+          0.0,
+          -83.22388999738918,
+          -0.0
+        ],
+        "s": [
+          0.9999999941019341,
+          0.9999999941019341,
+          1.0
+        ]
+      },
+      "group": "R3_SM_MedicalTable01HISMA_1"
+    },
+    {
+      "label": "TF_R03_0280_SM_MedicalInstrument01_2",
+      "source": {
+        "actor": "SM_MedicalInstrument01_2HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "t": {
+        "p": [
+          845.7894808244829,
+          -42.91094893151948,
+          85.3404541015625
+        ],
+        "r": [
+          0.0,
+          -75.13291190693272,
+          -0.0
+        ],
+        "s": [
+          1.0000000222298004,
+          1.0000000222298004,
+          1.0
+        ]
+      },
+      "group": "R3_SM_MedicalTable01HISMA_1"
+    },
+    {
+      "label": "TF_R03_0281_SM_MedicalInstrument01_2",
+      "source": {
+        "actor": "SM_MedicalInstrument01_2HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "t": {
+        "p": [
+          853.5401434021109,
+          -41.81656052631388,
+          85.3404541015625
+        ],
+        "r": [
+          0.0,
+          -81.21491078946988,
+          -0.0
+        ],
+        "s": [
+          1.0000000150946162,
+          1.0000000150946162,
+          1.0
+        ]
+      },
+      "group": "R3_SM_MedicalTable01HISMA_1"
+    }
+  ],
+  "deletes": [
+    {
+      "label": "TF_R02_0177_SM_Lamp03_1",
+      "source": {
+        "actor": "SM_Lamp03_1HISMA_1079",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      }
+    },
+    {
+      "label": "TF_R02_0178_SM_Lamp03_1",
+      "source": {
+        "actor": "SM_Lamp03_1HISMA_1079",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      }
+    }
+  ],
+  "note": "Labels refer to775entry imported_v1 ordering; use Source_ tags plusidentityifnecessary."
+}

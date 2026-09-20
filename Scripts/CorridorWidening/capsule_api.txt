@@ -1,0 +1,22 @@
+X.capsule_trace_single_by_profile(world_context_object, start, end, radius, half_height, profile_name, trace_complex, actors_to_ignore, draw_debug_type, ignore_self=True, trace_color=[1.000000, 0.000000, 0.000000, 1.000000], trace_hit_color=[0.000000, 1.000000, 0.000000, 1.000000], draw_time=5.000000) -> HitResult or None
+Sweep a capsule against the world and return the first blocking hit using a specific profile
+
+Args:
+    world_context_object (Object): 
+    start (Vector): Start of line segment.
+    end (Vector): End of line segment.
+    radius (float): Radius of the capsule to sweep
+    half_height (float): Distance from center of capsule to tip of hemisphere endcap.
+    profile_name (Name): The 'profile' used to determine which components to hit
+    trace_complex (bool): True to test against complex collision, false to test against simplified collision.
+    actors_to_ignore (Array[Actor]): 
+    draw_debug_type (DrawDebugTrace): 
+    ignore_self (bool): 
+    trace_color (LinearColor): 
+    trace_hit_color (LinearColor): 
+    draw_time (float): 
+
+Returns:
+    HitResult or None: True if there was a hit, false otherwise.
+
+    out_hit (HitResult): Properties of the trace hit.

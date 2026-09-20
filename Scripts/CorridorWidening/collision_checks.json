@@ -1,0 +1,66 @@
+[
+  {
+    "label": "horizontal_center",
+    "start": [
+      -1600,
+      -151,
+      100
+    ],
+    "end": [
+      -790,
+      -151,
+      100
+    ],
+    "radius_cm": 35,
+    "half_height_cm": 90,
+    "blocked": false
+  },
+  {
+    "label": "vertical_center",
+    "start": [
+      1031,
+      -520,
+      100
+    ],
+    "end": [
+      1031,
+      535,
+      100
+    ],
+    "radius_cm": 35,
+    "half_height_cm": 90,
+    "blocked": false
+  },
+  {
+    "label": "vertical_west_lane",
+    "start": [
+      991,
+      -520,
+      100
+    ],
+    "end": [
+      991,
+      535,
+      100
+    ],
+    "radius_cm": 35,
+    "half_height_cm": 90,
+    "blocked": false
+  },
+  {
+    "label": "vertical_east_lane",
+    "start": [
+      1071,
+      -520,
+      100
+    ],
+    "end": [
+      1071,
+      535,
+      100
+    ],
+    "radius_cm": 35,
+    "half_height_cm": 90,
+    "blocked": false
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "map": "/Game/HorrorWhitebox/Maps/L_Horror_Floorplan_Whitebox",
+  "actors": 115,
+  "geometry": {
+    "01_Walls": 52,
+    "02_Floors": 4,
+    "03_Ceilings (hidden in editor)": 4,
+    "04_Doorways": 8,
+    "06_Lighting": 19
+  },
+  "rooms": 8,
+  "openings": 8,
+  "wall_height_cm": 300,
+  "door_height_cm": 220,
+  "door_width_cm": 140,
+  "player_start": "<Struct 'Vector' (0x3f0c46c20) {x: -1420.000000, y: -110.000000, z: 100.000000}>",
+  "notes": "Ceilings hidden in editor only; visible during play. Room 7 access through room 3 only."
+}

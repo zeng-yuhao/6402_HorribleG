@@ -1,0 +1,28 @@
+{
+  "map": "/Game/HorrorWhitebox/Maps/L_Horror_Floorplan_codex",
+  "save_reload_verified": true,
+  "props": 855,
+  "rooms": {
+    "1": 100,
+    "2": 99,
+    "3": 101,
+    "4": 170,
+    "5": 184,
+    "6": 83,
+    "7": 36,
+    "8": 40,
+    "9": 42
+  },
+  "transform_material_errors": [],
+  "duplicate_mesh_transforms": 0,
+  "decals": 29,
+  "ceilings_hidden_for_review": [
+    "TF_Ceiling_00",
+    "TF_Ceiling_01",
+    "TF_Ceiling_02",
+    "TF_Ceiling_03"
+  ],
+  "navigation_all_rooms": true,
+  "navigation_all_doors": true,
+  "method": "Saved map reloaded; all transferred prop transforms, mesh references, material slots and scales compared with finalized source-instance plans; 10cm-grid clearance flood fill for a 70cm-diameter player. Rendered review images inspected separately."
+}

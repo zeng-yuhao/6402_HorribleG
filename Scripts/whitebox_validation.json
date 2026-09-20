@@ -1,0 +1,15 @@
+{
+  "saved_map_reloaded": true,
+  "room_reachability_with_70cm_player_diameter": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "actor_count": 115,
+  "validation": "10cm navigation grid against saved wall bounds at player height; runtime movement requires PIE check."
+}

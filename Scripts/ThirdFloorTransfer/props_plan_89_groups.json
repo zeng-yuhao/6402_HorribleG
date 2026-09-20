@@ -1,0 +1,710 @@
+{
+  "central_room_shift_x": 100,
+  "scale_policy": "Original per-instance scale preserved; positions regrouped. No affine room scaling.",
+  "groups": [
+    {
+      "name": "R08_Bed_A",
+      "members": 2,
+      "destination": [
+        1093,
+        202
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Bed01_1HISMA_715",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Bed_B",
+      "members": 3,
+      "destination": [
+        1318,
+        202
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Bed01_3HISMA_721",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Bed_C",
+      "members": 2,
+      "destination": [
+        1548,
+        202
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Bed01_5HISMA_717",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Bedside_Bloodbags",
+      "members": 5,
+      "destination": [
+        1210,
+        105
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Desk01_6HISMA_739",
+        0,
+        4
+      ]
+    },
+    {
+      "name": "R08_Bedside_Medicines",
+      "members": 6,
+      "destination": [
+        1428,
+        105
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Desk01_6HISMA_739",
+        0,
+        3
+      ]
+    },
+    {
+      "name": "R08_Bedside_Food",
+      "members": 5,
+      "destination": [
+        1428,
+        274
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Desk01_6HISMA_739",
+        0,
+        2
+      ]
+    },
+    {
+      "name": "R08_Drip_A",
+      "members": 3,
+      "destination": [
+        1210,
+        260
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_TripodDropper01HISMA_780",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Drip_C",
+      "members": 1,
+      "destination": [
+        1428,
+        188
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_TripodDropper01HISMA_780",
+        0,
+        2
+      ]
+    },
+    {
+      "name": "R09_North_Bed_A",
+      "members": 3,
+      "destination": [
+        220,
+        -573
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Bed01_3HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_North_Bed_B",
+      "members": 2,
+      "destination": [
+        723,
+        -573
+      ],
+      "yaw_delta": -5.0729211636534455,
+      "source_anchor": [
+        "SM_Bed01_5HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_North_Records",
+      "members": 7,
+      "destination": [
+        464,
+        -564
+      ],
+      "yaw_delta": 94.1,
+      "source_anchor": [
+        "SM_Desk01_5HISMA_656",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R09_West_Bed_A",
+      "members": 2,
+      "destination": [
+        67,
+        -224
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Bed01_4HISMA",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R09_West_Bed_B",
+      "members": 1,
+      "destination": [
+        67,
+        109
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Bed01_2HISMA",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R09_West_Bed_C",
+      "members": 3,
+      "destination": [
+        67,
+        420
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Bed01_3HISMA",
+        0,
+        2
+      ]
+    },
+    {
+      "name": "R09_Wheelchair",
+      "members": 1,
+      "destination": [
+        914,
+        -563
+      ],
+      "yaw_delta": 124.4,
+      "source_anchor": [
+        "SM_WheelChair01HISMA_705",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_North_Drip",
+      "members": 2,
+      "destination": [
+        25,
+        -568
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_TripodDropper01HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Lamp_1",
+      "members": 1,
+      "destination": [
+        1093,
+        204
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_752",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Lamp_2",
+      "members": 1,
+      "destination": [
+        1318,
+        204
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_752",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R08_Lamp_3",
+      "members": 1,
+      "destination": [
+        1548,
+        204
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_752",
+        0,
+        2
+      ]
+    },
+    {
+      "name": "R09_Lamp_1",
+      "members": 1,
+      "destination": [
+        220,
+        -555
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_665",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_Lamp_2",
+      "members": 1,
+      "destination": [
+        723,
+        -555
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_665",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R09_Lamp_3",
+      "members": 1,
+      "destination": [
+        67,
+        -224
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_665",
+        0,
+        2
+      ]
+    },
+    {
+      "name": "R09_Lamp_4",
+      "members": 1,
+      "destination": [
+        67,
+        109
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_667",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_Lamp_5",
+      "members": 1,
+      "destination": [
+        67,
+        420
+      ],
+      "yaw_delta": 90,
+      "source_anchor": [
+        "SM_Lamp03_1HISMA_667",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R08_Floor_Debris_01",
+      "members": 1,
+      "destination": [
+        1078.6199041635637,
+        126.32812521624915
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_737",
+        0,
+        17
+      ]
+    },
+    {
+      "name": "R08_Floor_Debris_02",
+      "members": 1,
+      "destination": [
+        1244.3386208400304,
+        114.50601577677888
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_737",
+        0,
+        18
+      ]
+    },
+    {
+      "name": "R08_Floor_Debris_03",
+      "members": 1,
+      "destination": [
+        1419.650433361382,
+        115.2667684260873
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_737",
+        0,
+        9
+      ]
+    },
+    {
+      "name": "R08_Floor_Debris_04",
+      "members": 1,
+      "destination": [
+        1074.7583661604804,
+        296.42352730723866
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_737",
+        0,
+        4
+      ]
+    },
+    {
+      "name": "R08_Floor_Debris_05",
+      "members": 1,
+      "destination": [
+        1257.7072612483912,
+        290.5166852847257
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_737",
+        0,
+        34
+      ]
+    },
+    {
+      "name": "R08_Floor_Debris_06",
+      "members": 1,
+      "destination": [
+        1434.5505307221367,
+        300.29842443818677
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_737",
+        0,
+        28
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_01",
+      "members": 1,
+      "destination": [
+        55.74933628143309,
+        -550.3786255275414
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        41
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_02",
+      "members": 1,
+      "destination": [
+        227.81893084576137,
+        -545.8594069665505
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        19
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_03",
+      "members": 1,
+      "destination": [
+        406.6295578103737,
+        -540.3238253896989
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        38
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_04",
+      "members": 1,
+      "destination": [
+        564.7019590145132,
+        -545.1505268164764
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        42
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_05",
+      "members": 1,
+      "destination": [
+        741.6121197647849,
+        -539.4550336557302
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        22
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_06",
+      "members": 1,
+      "destination": [
+        67.0602104621252,
+        -348.79644869602004
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        39
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_07",
+      "members": 1,
+      "destination": [
+        55.22421923285252,
+        -170.72866865622908
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        12
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_08",
+      "members": 1,
+      "destination": [
+        64.23528057499135,
+        13.86523473618206
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        32
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_09",
+      "members": 1,
+      "destination": [
+        66.06362738471815,
+        189.90902642096208
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        18
+      ]
+    },
+    {
+      "name": "R09_Floor_Debris_10",
+      "members": 1,
+      "destination": [
+        57.48641039608137,
+        369.27383006400294
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Debris01HISMA_654",
+        0,
+        34
+      ]
+    },
+    {
+      "name": "R08_Floor_Envelope_A",
+      "members": 1,
+      "destination": [
+        1080,
+        366
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Envelope01_4HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Floor_Envelope_B",
+      "members": 1,
+      "destination": [
+        1350,
+        388
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Envelope01_2HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Floor_Medication_A",
+      "members": 1,
+      "destination": [
+        1245,
+        368
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Medications01_2HISMA_767",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R08_Floor_Medication_B",
+      "members": 1,
+      "destination": [
+        1527,
+        371
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Medications01_1HISMA_769",
+        0,
+        3
+      ]
+    },
+    {
+      "name": "R09_Floor_Records_A",
+      "members": 1,
+      "destination": [
+        170,
+        -383
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_FolderPaper01_5HISMA",
+        0,
+        1
+      ]
+    },
+    {
+      "name": "R09_Floor_Records_B",
+      "members": 1,
+      "destination": [
+        162,
+        36
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_FolderPaper01_4HISMA_683",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_Floor_Records_C",
+      "members": 1,
+      "destination": [
+        166,
+        273
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_FolderPaper01_3HISMA_685",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_Floor_Records_D",
+      "members": 1,
+      "destination": [
+        174,
+        510
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_FolderPaper01_6HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_Floor_Dropped_Book",
+      "members": 1,
+      "destination": [
+        544,
+        -477
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Book01_5HISMA",
+        0,
+        0
+      ]
+    },
+    {
+      "name": "R09_Floor_Discarded_Cloth",
+      "members": 1,
+      "destination": [
+        105,
+        -57
+      ],
+      "yaw_delta": 0,
+      "source_anchor": [
+        "SM_Cloth01_6HISMA_650",
+        0,
+        0
+      ]
+    }
+  ],
+  "counts": {
+    "8": 40,
+    "9": 42
+  }
+}

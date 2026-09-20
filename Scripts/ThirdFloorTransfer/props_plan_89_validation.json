@@ -1,0 +1,10 @@
+{
+  "out_of_room_bounds": [],
+  "solid_furniture_aabb_overlaps": [],
+  "entry_count": 82,
+  "decal_count": 11,
+  "original_scale_preserved": true,
+  "room8_south_clearance_cm": 113.61029629551922,
+  "room9_west_aisle_min_cm": 93.87015031112429,
+  "room9_top_aisle_min_cm": 89.64110399326364
+}

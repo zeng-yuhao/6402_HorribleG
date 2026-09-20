@@ -1,0 +1,4130 @@
+{
+  "changes": {
+    "room1_north_cm": 72,
+    "rooms4_8_east_cm": 172
+  },
+  "moved": [
+    {
+      "label": "Practical_00",
+      "name": "PointLight_0",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "Practical_03",
+      "name": "PointLight_3",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Practical_07",
+      "name": "PointLight_7",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Practical_08",
+      "name": "PointLight_8",
+      "delta": [
+        0,
+        -36,
+        0
+      ]
+    },
+    {
+      "label": "Practical_16",
+      "name": "PointLight_16",
+      "delta": [
+        131,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Practical_17",
+      "name": "PointLight_17",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "Practical_18",
+      "name": "PointLight_18",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R04_00",
+      "name": "StaticMeshActor_766",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorJamb_R1_South_Threshold-1",
+      "name": "StaticMeshActor_772",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorJamb_R1_South_Threshold1",
+      "name": "StaticMeshActor_773",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorHeader_R1_South_Threshold",
+      "name": "StaticMeshActor_774",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorJamb_R4_South_Threshold-1",
+      "name": "StaticMeshActor_781",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorJamb_R4_South_Threshold1",
+      "name": "StaticMeshActor_782",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorHeader_R4_South_Threshold",
+      "name": "StaticMeshActor_783",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorJamb_R8_South_Threshold-1",
+      "name": "StaticMeshActor_790",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorJamb_R8_South_Threshold1",
+      "name": "StaticMeshActor_791",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_DoorHeader_R8_South_Threshold",
+      "name": "StaticMeshActor_792",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_OriginalFloor_R01_00",
+      "name": "StaticMeshActor_20",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_OriginalFloor_R01_01",
+      "name": "StaticMeshActor_21",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_00",
+      "name": "StaticMeshActor_22",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_01",
+      "name": "StaticMeshActor_23",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_02",
+      "name": "StaticMeshActor_24",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_03",
+      "name": "StaticMeshActor_25",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_04",
+      "name": "StaticMeshActor_26",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_05",
+      "name": "StaticMeshActor_27",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_06",
+      "name": "StaticMeshActor_28",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R01_Infill_07",
+      "name": "StaticMeshActor_29",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_OriginalFloor_R08_05",
+      "name": "StaticMeshActor_48",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R08_Infill_00",
+      "name": "StaticMeshActor_49",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R08_Infill_01",
+      "name": "StaticMeshActor_50",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R08_Infill_02",
+      "name": "StaticMeshActor_51",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R08_Infill_03",
+      "name": "StaticMeshActor_52",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Floor_R08_Infill_04",
+      "name": "StaticMeshActor_53",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_View_Ward08",
+      "name": "CameraActor_2",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0000_SM_Chair01",
+      "name": "StaticMeshActor_1530",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0001_SM_Desk01_1",
+      "name": "StaticMeshActor_1531",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0002_SM_Ashtray01",
+      "name": "StaticMeshActor_1532",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0003_SM_Desk01_7",
+      "name": "StaticMeshActor_1533",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0004_SM_Envelope01_3",
+      "name": "StaticMeshActor_1534",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0005_SM_Envelope01_1",
+      "name": "StaticMeshActor_1535",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0006_SM_Envelope01_4",
+      "name": "StaticMeshActor_1536",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0007_SM_Folder01_3",
+      "name": "StaticMeshActor_1537",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0008_SM_Folder01_4",
+      "name": "StaticMeshActor_1538",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0009_SM_Inkwell01",
+      "name": "StaticMeshActor_1539",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0010_SM_Lamp02_3",
+      "name": "StaticMeshActor_1540",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0011_SM_Pen01_1",
+      "name": "StaticMeshActor_1541",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0012_SM_Pen01_1",
+      "name": "StaticMeshActor_1542",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0013_SM_FolderPaper01_2",
+      "name": "StaticMeshActor_1543",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0014_SM_Desk01_6",
+      "name": "StaticMeshActor_1544",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0015_SM_Book01_1",
+      "name": "StaticMeshActor_1545",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0016_SM_Book01_2",
+      "name": "StaticMeshActor_1546",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0017_SM_Book01_6",
+      "name": "StaticMeshActor_1547",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0018_SM_Envelope01_4",
+      "name": "StaticMeshActor_1548",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0019_SM_LeatherChair01",
+      "name": "StaticMeshActor_1549",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0020_SM_Lamp01_1",
+      "name": "StaticMeshActor_1550",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_Practical_0020",
+      "name": "PointLight_38",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0021_SM_LeatherSofa01",
+      "name": "StaticMeshActor_1551",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0022_SM_Book01_1",
+      "name": "StaticMeshActor_1552",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0023_SM_Book01_8",
+      "name": "StaticMeshActor_1553",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0024_SM_Photos01_1",
+      "name": "StaticMeshActor_1554",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0025_SM_Photos01_6",
+      "name": "StaticMeshActor_1555",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0026_SM_Photos01_7",
+      "name": "StaticMeshActor_1556",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0027_SM_Photos01_8",
+      "name": "StaticMeshActor_1557",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0028_SM_Photos01_10",
+      "name": "StaticMeshActor_1558",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0029_SM_Photos01_2",
+      "name": "StaticMeshActor_1559",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0030_SM_Locker01_4",
+      "name": "StaticMeshActor_1560",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0031_SM_Book01_11",
+      "name": "StaticMeshActor_1561",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0032_SM_Book01_11",
+      "name": "StaticMeshActor_1562",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0033_SM_Book01_12",
+      "name": "StaticMeshActor_1563",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0034_SM_Book01_12",
+      "name": "StaticMeshActor_1564",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0035_SM_Book01_12",
+      "name": "StaticMeshActor_1565",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0036_SM_Book01_8",
+      "name": "StaticMeshActor_1566",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0037_SM_Book01_2",
+      "name": "StaticMeshActor_1567",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0038_SM_Book01_2",
+      "name": "StaticMeshActor_1568",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0039_SM_Book01_7",
+      "name": "StaticMeshActor_1569",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0040_SM_Book01_7",
+      "name": "StaticMeshActor_1570",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0041_SM_Locker01_4",
+      "name": "StaticMeshActor_1571",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0042_SM_Book01_11",
+      "name": "StaticMeshActor_1572",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0043_SM_Book01_11",
+      "name": "StaticMeshActor_1573",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0044_SM_Book01_12",
+      "name": "StaticMeshActor_1574",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0045_SM_Book01_12",
+      "name": "StaticMeshActor_1575",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0046_SM_Book01_12",
+      "name": "StaticMeshActor_1576",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0047_SM_Book01_8",
+      "name": "StaticMeshActor_1577",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0048_SM_Book01_2",
+      "name": "StaticMeshActor_1578",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0049_SM_Book01_7",
+      "name": "StaticMeshActor_1579",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0050_SM_PaperBox01_1",
+      "name": "StaticMeshActor_1580",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0051_SM_PaperBox01_1",
+      "name": "StaticMeshActor_1581",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0052_SM_PaperBox01_1",
+      "name": "StaticMeshActor_1582",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0053_SM_Locker01_4",
+      "name": "StaticMeshActor_1583",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0054_SM_Book01_11",
+      "name": "StaticMeshActor_1584",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0055_SM_Book01_11",
+      "name": "StaticMeshActor_1585",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0056_SM_Book01_12",
+      "name": "StaticMeshActor_1586",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0057_SM_Book01_12",
+      "name": "StaticMeshActor_1587",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0058_SM_Book01_12",
+      "name": "StaticMeshActor_1588",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0059_SM_Book01_7",
+      "name": "StaticMeshActor_1589",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0060_SM_Book01_4",
+      "name": "StaticMeshActor_1590",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0061_SM_Locker01_5",
+      "name": "StaticMeshActor_1591",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0062_SM_Envelope01_9",
+      "name": "StaticMeshActor_1592",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0063_SM_Envelope01_10",
+      "name": "StaticMeshActor_1593",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0064_SM_Envelope01_5",
+      "name": "StaticMeshActor_1594",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0065_SM_Envelope01_7",
+      "name": "StaticMeshActor_1595",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0066_SM_Envelope01_7",
+      "name": "StaticMeshActor_1596",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0067_SM_Envelope01_6",
+      "name": "StaticMeshActor_1597",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0068_SM_Envelope01_6",
+      "name": "StaticMeshActor_1598",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0069_SM_Envelope01_2",
+      "name": "StaticMeshActor_1599",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0070_SM_Envelope01_2",
+      "name": "StaticMeshActor_1600",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0071_SM_Envelope01_2",
+      "name": "StaticMeshActor_1601",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0072_SM_Envelope01_3",
+      "name": "StaticMeshActor_1602",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0073_SM_Envelope01_3",
+      "name": "StaticMeshActor_1603",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0074_SM_Envelope01_1",
+      "name": "StaticMeshActor_1604",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0075_SM_Battery01_1",
+      "name": "StaticMeshActor_1605",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0076_SM_Debris01",
+      "name": "StaticMeshActor_1606",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0077_SM_Debris01",
+      "name": "StaticMeshActor_1607",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0078_SM_Debris01",
+      "name": "StaticMeshActor_1608",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0079_SM_Debris01",
+      "name": "StaticMeshActor_1609",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0080_SM_Debris01",
+      "name": "StaticMeshActor_1610",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0081_SM_Debris01",
+      "name": "StaticMeshActor_1611",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0082_SM_Debris01",
+      "name": "StaticMeshActor_1612",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0083_SM_Debris01",
+      "name": "StaticMeshActor_1613",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0084_SM_Debris01",
+      "name": "StaticMeshActor_1614",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0085_SM_Debris01",
+      "name": "StaticMeshActor_1615",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0086_SM_Debris01",
+      "name": "StaticMeshActor_1616",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0087_SM_Debris01",
+      "name": "StaticMeshActor_1617",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0088_SM_Debris01",
+      "name": "StaticMeshActor_1618",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0089_SM_Debris01",
+      "name": "StaticMeshActor_1619",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0090_SM_Debris01",
+      "name": "StaticMeshActor_1620",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0091_SM_Debris01",
+      "name": "StaticMeshActor_1621",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0092_SM_Debris01",
+      "name": "StaticMeshActor_1622",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0093_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1623",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0094_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1624",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0095_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1625",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0096_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1626",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0097_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1627",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0098_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1628",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_0099_SM_Lamp01_1",
+      "name": "StaticMeshActor_1629",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R01_Practical_0099",
+      "name": "PointLight_39",
+      "delta": [
+        0,
+        -72,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0300_SM_Chair02_1",
+      "name": "StaticMeshActor_1830",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0301_SM_Desk01_2",
+      "name": "StaticMeshActor_1831",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0302_SM_Ashtray01",
+      "name": "StaticMeshActor_1832",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0303_SM_Book01_1",
+      "name": "StaticMeshActor_1833",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0304_SM_Book01_7",
+      "name": "StaticMeshActor_1834",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0305_SM_Desk01_8",
+      "name": "StaticMeshActor_1835",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0306_SM_Documents01_5",
+      "name": "StaticMeshActor_1836",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0307_SM_Documents01_9",
+      "name": "StaticMeshActor_1837",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0308_SM_Documents01_7",
+      "name": "StaticMeshActor_1838",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0309_SM_Documents01_7",
+      "name": "StaticMeshActor_1839",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0310_SM_Documents01_14",
+      "name": "StaticMeshActor_1840",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0311_SM_Documents01_4",
+      "name": "StaticMeshActor_1841",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0312_SM_Documents01_10",
+      "name": "StaticMeshActor_1842",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0313_SM_Documents01_3",
+      "name": "StaticMeshActor_1843",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0314_SM_DocumentsMerged01_4",
+      "name": "StaticMeshActor_1844",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0315_SM_Envelope01_4",
+      "name": "StaticMeshActor_1845",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0316_SM_Folder01_3",
+      "name": "StaticMeshActor_1846",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0317_SM_Photos01_2",
+      "name": "StaticMeshActor_1847",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0318_SM_Photos01_3",
+      "name": "StaticMeshActor_1848",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0319_SM_Inkwell01",
+      "name": "StaticMeshActor_1849",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0320_SM_Lamp02_1",
+      "name": "StaticMeshActor_1850",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0321_SM_Medications01_1",
+      "name": "StaticMeshActor_1851",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0322_SM_Medications01_1",
+      "name": "StaticMeshActor_1852",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0323_SM_FolderPaper01_1",
+      "name": "StaticMeshActor_1853",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0324_SM_Stamp01",
+      "name": "StaticMeshActor_1854",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0325_SM_Desk01_5",
+      "name": "StaticMeshActor_1855",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0326_SM_Documents01_7",
+      "name": "StaticMeshActor_1856",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0327_SM_Documents01_14",
+      "name": "StaticMeshActor_1857",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0328_SM_Documents01_4",
+      "name": "StaticMeshActor_1858",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0329_SM_Documents01_6",
+      "name": "StaticMeshActor_1859",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0330_SM_Documents01_10",
+      "name": "StaticMeshActor_1860",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0331_SM_Documents01_11",
+      "name": "StaticMeshActor_1861",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0332_SM_FolderPaper01_1",
+      "name": "StaticMeshActor_1862",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0333_SM_LaboratoryFlask01_9",
+      "name": "StaticMeshActor_1863",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0334_SM_LaboratoryFlask01_9",
+      "name": "StaticMeshActor_1864",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0335_SM_LaboratoryFlask01_9",
+      "name": "StaticMeshActor_1865",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0336_SM_LaboratoryFlask01_9",
+      "name": "StaticMeshActor_1866",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0337_SM_LaboratoryFlask01_3",
+      "name": "StaticMeshActor_1867",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0338_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1868",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0339_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1869",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0340_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1870",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0341_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1871",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0342_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1872",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0343_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1873",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0344_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1874",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0345_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1875",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0346_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1876",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0347_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1877",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0348_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1878",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0349_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1879",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0350_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1880",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0351_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1881",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0352_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1882",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0353_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1883",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0354_SM_LaboratoryFlask01_1",
+      "name": "StaticMeshActor_1884",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0355_SM_TableClock01",
+      "name": "StaticMeshActor_1885",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0356_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1886",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0357_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1887",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0358_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1888",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0359_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1889",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0360_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1890",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0361_SM_TrashBucket01_1",
+      "name": "StaticMeshActor_1891",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0362_SM_Desk01_5",
+      "name": "StaticMeshActor_1892",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0363_SM_Book01_3",
+      "name": "StaticMeshActor_1893",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0364_SM_Book01_8",
+      "name": "StaticMeshActor_1894",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0365_SM_Book01_2",
+      "name": "StaticMeshActor_1895",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0366_SM_Burner01",
+      "name": "StaticMeshActor_1896",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0367_SM_Folder01_2",
+      "name": "StaticMeshActor_1897",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0368_SM_Lamp02_6",
+      "name": "StaticMeshActor_1898",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0369_SM_Pen01_2",
+      "name": "StaticMeshActor_1899",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0370_SM_Pen01_1",
+      "name": "StaticMeshActor_1900",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0371_SM_Scales01",
+      "name": "StaticMeshActor_1901",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0372_SM_FolderPaper01_1",
+      "name": "StaticMeshActor_1902",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0373_SM_LaboratoryFlask01_4",
+      "name": "StaticMeshActor_1903",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0374_SM_LaboratoryFlask01_2",
+      "name": "StaticMeshActor_1904",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0375_SM_LaboratoryFlask01_3",
+      "name": "StaticMeshActor_1905",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0376_SM_LaboratoryFlask01_5",
+      "name": "StaticMeshActor_1906",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0377_SM_Desk01_5",
+      "name": "StaticMeshActor_1907",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0378_SM_Book01_4",
+      "name": "StaticMeshActor_1908",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0379_SM_Book01_3",
+      "name": "StaticMeshActor_1909",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0380_SM_Book01_7",
+      "name": "StaticMeshActor_1910",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0381_SM_Book01_2",
+      "name": "StaticMeshActor_1911",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0382_SM_Book01_2",
+      "name": "StaticMeshActor_1912",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0383_SM_Burner01",
+      "name": "StaticMeshActor_1913",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0384_SM_Documents01_14",
+      "name": "StaticMeshActor_1914",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0385_SM_Documents01_6",
+      "name": "StaticMeshActor_1915",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0386_SM_Documents01_12",
+      "name": "StaticMeshActor_1916",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0387_SM_Documents01_12",
+      "name": "StaticMeshActor_1917",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0388_SM_Documents01_3",
+      "name": "StaticMeshActor_1918",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0389_SM_Documents01_2",
+      "name": "StaticMeshActor_1919",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0390_SM_DocumentsMerged01_2",
+      "name": "StaticMeshActor_1920",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0391_SM_Envelope01_6",
+      "name": "StaticMeshActor_1921",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0392_SM_Envelope01_3",
+      "name": "StaticMeshActor_1922",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0393_SM_Scales01",
+      "name": "StaticMeshActor_1923",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0394_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1924",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0395_SM_TestTubeRack01",
+      "name": "StaticMeshActor_1925",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0396_SM_Desk01_5",
+      "name": "StaticMeshActor_1926",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0397_SM_Envelope01_4",
+      "name": "StaticMeshActor_1927",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0398_SM_Folder01_1",
+      "name": "StaticMeshActor_1928",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0399_SM_Folder01_4",
+      "name": "StaticMeshActor_1929",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0400_SM_FolderPaper01_5",
+      "name": "StaticMeshActor_1930",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0401_SM_LaboratoryFlask01_2",
+      "name": "StaticMeshActor_1931",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0402_SM_LaboratoryFlask01_2",
+      "name": "StaticMeshActor_1932",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0403_SM_LaboratoryFlask01_6",
+      "name": "StaticMeshActor_1933",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0404_SM_LeatherChair01",
+      "name": "StaticMeshActor_1934",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0405_SM_Locker01_3",
+      "name": "StaticMeshActor_1935",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0406_SM_Book01_10",
+      "name": "StaticMeshActor_1936",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0407_SM_Book01_10",
+      "name": "StaticMeshActor_1937",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0408_SM_Book01_9",
+      "name": "StaticMeshActor_1938",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0409_SM_Book01_9",
+      "name": "StaticMeshActor_1939",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0410_SM_Locker01Door01_3",
+      "name": "StaticMeshActor_1940",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0411_SM_Locker01_3",
+      "name": "StaticMeshActor_1941",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0412_SM_Book01_10",
+      "name": "StaticMeshActor_1942",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0413_SM_Book01_10",
+      "name": "StaticMeshActor_1943",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0414_SM_Book01_9",
+      "name": "StaticMeshActor_1944",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0415_SM_Book01_9",
+      "name": "StaticMeshActor_1945",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0416_SM_Locker01Door01_3",
+      "name": "StaticMeshActor_1946",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0417_SM_Locker01Door01_3",
+      "name": "StaticMeshActor_1947",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0418_SM_Locker01_3",
+      "name": "StaticMeshActor_1948",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0419_SM_Book01_10",
+      "name": "StaticMeshActor_1949",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0420_SM_Book01_10",
+      "name": "StaticMeshActor_1950",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0421_SM_Book01_9",
+      "name": "StaticMeshActor_1951",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0422_SM_Book01_9",
+      "name": "StaticMeshActor_1952",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0423_SM_Locker01Door01_3",
+      "name": "StaticMeshActor_1953",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0424_SM_Locker01Door01_3",
+      "name": "StaticMeshActor_1954",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0425_SM_Locker01_2",
+      "name": "StaticMeshActor_1955",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0426_SM_Book01_10",
+      "name": "StaticMeshActor_1956",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0427_SM_Book01_10",
+      "name": "StaticMeshActor_1957",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0428_SM_Book01_10",
+      "name": "StaticMeshActor_1958",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0429_SM_Book01_9",
+      "name": "StaticMeshActor_1959",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0430_SM_Book01_9",
+      "name": "StaticMeshActor_1960",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0431_SM_Book01_1",
+      "name": "StaticMeshActor_1961",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0432_SM_Book01_8",
+      "name": "StaticMeshActor_1962",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0433_SM_Book01_7",
+      "name": "StaticMeshActor_1963",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0434_SM_Book01_2",
+      "name": "StaticMeshActor_1964",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0435_SM_Folder01_3",
+      "name": "StaticMeshActor_1965",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0436_SM_Folder01_3",
+      "name": "StaticMeshActor_1966",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0437_SM_Folder01_4",
+      "name": "StaticMeshActor_1967",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0438_SM_Sink01",
+      "name": "StaticMeshActor_1968",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0439_SM_Debris01",
+      "name": "StaticMeshActor_1969",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0440_SM_Debris01",
+      "name": "StaticMeshActor_1970",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0441_SM_Debris01",
+      "name": "StaticMeshActor_1971",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0442_SM_Debris01",
+      "name": "StaticMeshActor_1972",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0443_SM_Debris01",
+      "name": "StaticMeshActor_1973",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0444_SM_Debris01",
+      "name": "StaticMeshActor_1974",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0445_SM_Debris01",
+      "name": "StaticMeshActor_1975",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0446_SM_Debris01",
+      "name": "StaticMeshActor_1976",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0447_SM_Debris01",
+      "name": "StaticMeshActor_1977",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0448_SM_Debris01",
+      "name": "StaticMeshActor_1978",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0449_SM_Debris01",
+      "name": "StaticMeshActor_1979",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0450_SM_Debris01",
+      "name": "StaticMeshActor_1980",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0451_SM_Debris01",
+      "name": "StaticMeshActor_1981",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0452_SM_Debris01",
+      "name": "StaticMeshActor_1982",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0453_SM_Debris01",
+      "name": "StaticMeshActor_1983",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0454_SM_Debris01",
+      "name": "StaticMeshActor_1984",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0455_SM_Debris01",
+      "name": "StaticMeshActor_1985",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0456_SM_Debris01",
+      "name": "StaticMeshActor_1986",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0457_SM_Debris01",
+      "name": "StaticMeshActor_1987",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0458_SM_Debris01",
+      "name": "StaticMeshActor_1988",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0459_SM_Debris01",
+      "name": "StaticMeshActor_1989",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0460_SM_Debris01",
+      "name": "StaticMeshActor_1990",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0461_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1991",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0462_SM_InformationTable02_2",
+      "name": "StaticMeshActor_1992",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0463_SM_Lamp01_1",
+      "name": "StaticMeshActor_1993",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_Practical_0463",
+      "name": "PointLight_43",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0464_SM_Lamp03_1",
+      "name": "StaticMeshActor_1994",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_Practical_0464",
+      "name": "PointLight_44",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0465_SM_MedicalPoster01_1",
+      "name": "StaticMeshActor_1995",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0466_SM_MedicalPoster01_2",
+      "name": "StaticMeshActor_1996",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0467_SM_MedicalPoster01_3",
+      "name": "StaticMeshActor_1997",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0468_SM_MedicalPoster01_4",
+      "name": "StaticMeshActor_1998",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R04_0469_SM_FolderPaper01_1",
+      "name": "StaticMeshActor_1999",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0773_SM_Bed01_1",
+      "name": "StaticMeshActor_2303",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0774_SM_Mattress01_4",
+      "name": "StaticMeshActor_2304",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0775_SM_Bed01_3",
+      "name": "StaticMeshActor_2305",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0776_SM_Mattress01_1",
+      "name": "StaticMeshActor_2306",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0777_SM_WoodenTub01",
+      "name": "StaticMeshActor_2307",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0778_SM_Bed01_5",
+      "name": "StaticMeshActor_2308",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0779_SM_Mattress01_2",
+      "name": "StaticMeshActor_2309",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0780_SM_Desk01_6",
+      "name": "StaticMeshActor_2310",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0781_SM_DropperBloodBag01_2",
+      "name": "StaticMeshActor_2311",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0782_SM_DropperBloodBag01_3",
+      "name": "StaticMeshActor_2312",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0783_SM_Folder01_1",
+      "name": "StaticMeshActor_2313",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0784_SM_FolderPaper01_2",
+      "name": "StaticMeshActor_2314",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0785_SM_Desk01_6",
+      "name": "StaticMeshActor_2315",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0786_SM_MedicalInstrument01_5",
+      "name": "StaticMeshActor_2316",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0787_SM_Medications01_4",
+      "name": "StaticMeshActor_2317",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0788_SM_Medications01_4",
+      "name": "StaticMeshActor_2318",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0789_SM_Medications01_4",
+      "name": "StaticMeshActor_2319",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0790_SM_Medications01_4",
+      "name": "StaticMeshActor_2320",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0791_SM_Desk01_6",
+      "name": "StaticMeshActor_2321",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0792_SM_Bowl01",
+      "name": "StaticMeshActor_2322",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0793_SM_Kitchenware04_2",
+      "name": "StaticMeshActor_2323",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0794_SM_Kitchenware04_1",
+      "name": "StaticMeshActor_2324",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0795_SM_Potato01_4",
+      "name": "StaticMeshActor_2325",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0796_SM_TripodDropper01",
+      "name": "StaticMeshActor_2326",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0797_SM_DropperBloodBag01_1",
+      "name": "StaticMeshActor_2327",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0798_SM_DropperBloodBag01_1",
+      "name": "StaticMeshActor_2328",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0799_SM_TripodDropper01",
+      "name": "StaticMeshActor_2329",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0821_SM_Lamp03_1",
+      "name": "StaticMeshActor_2351",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_Practical_0821",
+      "name": "PointLight_47",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0822_SM_Lamp03_1",
+      "name": "StaticMeshActor_2352",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_Practical_0822",
+      "name": "PointLight_48",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0823_SM_Lamp03_1",
+      "name": "StaticMeshActor_2353",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_Practical_0823",
+      "name": "PointLight_49",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0829_SM_Debris01",
+      "name": "StaticMeshActor_2359",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0830_SM_Debris01",
+      "name": "StaticMeshActor_2360",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0831_SM_Debris01",
+      "name": "StaticMeshActor_2361",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0832_SM_Debris01",
+      "name": "StaticMeshActor_2362",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0833_SM_Debris01",
+      "name": "StaticMeshActor_2363",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0834_SM_Debris01",
+      "name": "StaticMeshActor_2364",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0845_SM_Envelope01_4",
+      "name": "StaticMeshActor_2375",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0846_SM_Envelope01_2",
+      "name": "StaticMeshActor_2376",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0847_SM_Medications01_2",
+      "name": "StaticMeshActor_2377",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_R08_0848_SM_Medications01_1",
+      "name": "StaticMeshActor_2378",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Decal_R08_MI_Puddle01_28",
+      "name": "DecalActor_29",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Decal_R08_MI_BloodDecal02_56",
+      "name": "DecalActor_30",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Decal_R08_MI_Puddle01_59",
+      "name": "DecalActor_31",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Decal_R08_MI_BloodDecal02_52",
+      "name": "DecalActor_32",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Decal_R08_MI_Puddle01_30",
+      "name": "DecalActor_33",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    },
+    {
+      "label": "TF_Decal_R08_MI_BloodDecal02_53",
+      "name": "DecalActor_34",
+      "delta": [
+        172,
+        0,
+        0
+      ]
+    }
+  ],
+  "walls": [
+    [
+      -1841.0,
+      -729.0,
+      1169.0,
+      -703.0,
+      0,
+      220
+    ],
+    [
+      -1841.0,
+      -703.0,
+      -1815.0,
+      -13.0,
+      0,
+      220
+    ],
+    [
+      -1815.0,
+      -289.0,
+      -1678.0,
+      -263.0,
+      0,
+      220
+    ],
+    [
+      -1815.0,
+      -39.0,
+      -1705.0,
+      -13.0,
+      0,
+      220
+    ],
+    [
+      -1731.0,
+      -13.0,
+      -1705.0,
+      605.0,
+      0,
+      220
+    ],
+    [
+      -1705.0,
+      579.0,
+      761.0,
+      605.0,
+      0,
+      220
+    ],
+    [
+      -1553.0,
+      -39.0,
+      -865.0,
+      -13.0,
+      0,
+      220
+    ],
+    [
+      -1553.0,
+      -13.0,
+      -1527.0,
+      427.0,
+      0,
+      220
+    ],
+    [
+      -1538.0,
+      -289.0,
+      -865.0,
+      -263.0,
+      0,
+      220
+    ],
+    [
+      -1527.0,
+      401.0,
+      -1412.0,
+      427.0,
+      0,
+      220
+    ],
+    [
+      -1272.0,
+      401.0,
+      -865.0,
+      427.0,
+      0,
+      220
+    ],
+    [
+      -891.0,
+      -703.0,
+      -865.0,
+      -289.0,
+      0,
+      220
+    ],
+    [
+      -891.0,
+      -13.0,
+      -865.0,
+      401.0,
+      0,
+      220
+    ],
+    [
+      -711.0,
+      139.0,
+      -23.0,
+      165.0,
+      0,
+      220
+    ],
+    [
+      -711.0,
+      165.0,
+      -685.0,
+      258.0,
+      0,
+      220
+    ],
+    [
+      -711.0,
+      398.0,
+      -685.0,
+      579.0,
+      0,
+      220
+    ],
+    [
+      -49.0,
+      165.0,
+      -23.0,
+      579.0,
+      0,
+      220
+    ],
+    [
+      231.0,
+      -427.0,
+      664.0,
+      -401.0,
+      0,
+      220
+    ],
+    [
+      231.0,
+      -401.0,
+      257.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      257.0,
+      13.0,
+      488.0,
+      39.0,
+      0,
+      220
+    ],
+    [
+      257.0,
+      451.0,
+      919.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      628.0,
+      13.0,
+      919.0,
+      39.0,
+      0,
+      220
+    ],
+    [
+      735.0,
+      605.0,
+      761.0,
+      655.0,
+      0,
+      220
+    ],
+    [
+      761.0,
+      629.0,
+      2011.0,
+      655.0,
+      0,
+      220
+    ],
+    [
+      804.0,
+      -427.0,
+      919.0,
+      -401.0,
+      0,
+      220
+    ],
+    [
+      893.0,
+      -401.0,
+      919.0,
+      13.0,
+      0,
+      220
+    ],
+    [
+      893.0,
+      39.0,
+      919.0,
+      451.0,
+      0,
+      220
+    ],
+    [
+      1143.0,
+      -703.0,
+      1169.0,
+      -141.0,
+      0,
+      220
+    ],
+    [
+      1143.0,
+      13.0,
+      1833.0,
+      39.0,
+      0,
+      220
+    ],
+    [
+      1143.0,
+      39.0,
+      1169.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      1169.0,
+      -605.0,
+      2011.0,
+      -579.0,
+      0,
+      220
+    ],
+    [
+      1169.0,
+      -167.0,
+      1278.0,
+      -141.0,
+      0,
+      220
+    ],
+    [
+      1169.0,
+      451.0,
+      1548.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      1418.0,
+      -167.0,
+      1833.0,
+      -141.0,
+      0,
+      220
+    ],
+    [
+      1688.0,
+      451.0,
+      1833.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      1807.0,
+      -579.0,
+      1833.0,
+      -167.0,
+      0,
+      220
+    ],
+    [
+      1807.0,
+      39.0,
+      1833.0,
+      451.0,
+      0,
+      220
+    ],
+    [
+      1985.0,
+      -579.0,
+      2011.0,
+      629.0,
+      0,
+      220
+    ],
+    [
+      -1841.0,
+      -729.0,
+      1169.0,
+      -703.0,
+      220,
+      400
+    ],
+    [
+      -1841.0,
+      -703.0,
+      -1815.0,
+      -13.0,
+      220,
+      400
+    ],
+    [
+      -1815.0,
+      -289.0,
+      -865.0,
+      -263.0,
+      220,
+      400
+    ],
+    [
+      -1815.0,
+      -39.0,
+      -1705.0,
+      -13.0,
+      220,
+      400
+    ],
+    [
+      -1731.0,
+      -13.0,
+      -1705.0,
+      605.0,
+      220,
+      400
+    ],
+    [
+      -1705.0,
+      579.0,
+      761.0,
+      605.0,
+      220,
+      400
+    ],
+    [
+      -1553.0,
+      -39.0,
+      -865.0,
+      -13.0,
+      220,
+      400
+    ],
+    [
+      -1553.0,
+      -13.0,
+      -1527.0,
+      427.0,
+      220,
+      400
+    ],
+    [
+      -1527.0,
+      401.0,
+      -865.0,
+      427.0,
+      220,
+      400
+    ],
+    [
+      -891.0,
+      -703.0,
+      -865.0,
+      -289.0,
+      220,
+      400
+    ],
+    [
+      -891.0,
+      -13.0,
+      -865.0,
+      401.0,
+      220,
+      400
+    ],
+    [
+      -711.0,
+      139.0,
+      -23.0,
+      165.0,
+      220,
+      400
+    ],
+    [
+      -711.0,
+      165.0,
+      -685.0,
+      579.0,
+      220,
+      400
+    ],
+    [
+      -49.0,
+      165.0,
+      -23.0,
+      579.0,
+      220,
+      400
+    ],
+    [
+      231.0,
+      -427.0,
+      919.0,
+      -401.0,
+      220,
+      400
+    ],
+    [
+      231.0,
+      -401.0,
+      257.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      257.0,
+      13.0,
+      919.0,
+      39.0,
+      220,
+      400
+    ],
+    [
+      257.0,
+      451.0,
+      919.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      735.0,
+      605.0,
+      761.0,
+      655.0,
+      220,
+      400
+    ],
+    [
+      761.0,
+      629.0,
+      2011.0,
+      655.0,
+      220,
+      400
+    ],
+    [
+      893.0,
+      -401.0,
+      919.0,
+      13.0,
+      220,
+      400
+    ],
+    [
+      893.0,
+      39.0,
+      919.0,
+      451.0,
+      220,
+      400
+    ],
+    [
+      1143.0,
+      -703.0,
+      1169.0,
+      -141.0,
+      220,
+      400
+    ],
+    [
+      1143.0,
+      13.0,
+      1833.0,
+      39.0,
+      220,
+      400
+    ],
+    [
+      1143.0,
+      39.0,
+      1169.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      1169.0,
+      -605.0,
+      2011.0,
+      -579.0,
+      220,
+      400
+    ],
+    [
+      1169.0,
+      -167.0,
+      1833.0,
+      -141.0,
+      220,
+      400
+    ],
+    [
+      1169.0,
+      451.0,
+      1833.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      1807.0,
+      -579.0,
+      1833.0,
+      -167.0,
+      220,
+      400
+    ],
+    [
+      1807.0,
+      39.0,
+      1833.0,
+      451.0,
+      220,
+      400
+    ],
+    [
+      1985.0,
+      -579.0,
+      2011.0,
+      629.0,
+      220,
+      400
+    ]
+  ],
+  "floor": [
+    {
+      "room": 0,
+      "rect": [
+        -1841,
+        -729,
+        1169,
+        -703
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1841,
+        -703,
+        -1815,
+        -13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1815,
+        -289,
+        -698,
+        -13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1731,
+        -13,
+        -1527,
+        605
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1527,
+        401,
+        -685,
+        605
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        -703,
+        -36,
+        -631
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        -631,
+        -698,
+        -289
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        -13,
+        -36,
+        165
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        165,
+        -685,
+        401
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -698,
+        -26,
+        -36,
+        -13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -685,
+        579,
+        2011,
+        605
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -49,
+        165,
+        -36,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        735,
+        605,
+        2011,
+        655
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1169,
+        -605,
+        2011,
+        -579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1169,
+        -167,
+        2011,
+        39
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1169,
+        451,
+        2011,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1807,
+        -579,
+        2011,
+        -167
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1807,
+        39,
+        2011,
+        451
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 2,
+      "rect": [
+        -698,
+        -631,
+        -36,
+        -26
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        -36,
+        -703,
+        1169,
+        -401
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        -36,
+        -401,
+        257,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        257,
+        13,
+        1169,
+        39
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        257,
+        451,
+        1169,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        893,
+        -401,
+        1169,
+        13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        893,
+        39,
+        1169,
+        451
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    }
+  ],
+  "rooms": {
+    "1": [
+      -1815,
+      -703,
+      -891,
+      -289
+    ],
+    "2": [
+      -698,
+      -631,
+      -36,
+      -26
+    ],
+    "3": [
+      257,
+      -401,
+      893,
+      13
+    ],
+    "4": [
+      1169,
+      -579,
+      1807,
+      -167
+    ],
+    "5": [
+      -1527,
+      -13,
+      -891,
+      401
+    ],
+    "6": [
+      -685,
+      165,
+      -49,
+      579
+    ],
+    "7": [
+      257,
+      39,
+      893,
+      451
+    ],
+    "8": [
+      1169,
+      39,
+      1807,
+      451
+    ]
+  },
+  "footprint": [
+    [
+      -1841,
+      -729,
+      1169,
+      -605
+    ],
+    [
+      -1841,
+      -605,
+      2011,
+      -13
+    ],
+    [
+      -1731,
+      -13,
+      2011,
+      605
+    ],
+    [
+      735,
+      605,
+      2011,
+      655
+    ]
+  ],
+  "created": 578,
+  "saved": true
+}

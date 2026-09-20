@@ -1,0 +1,295 @@
+{
+  "map": "/Game/HorrorWhitebox/Maps/L_Horror_Floorplan_Whitebox",
+  "source_wall": "MI_Wall02_3",
+  "source_floor": "MI_FloorConcrete01",
+  "before_actor_count": 117,
+  "assigned": [
+    {
+      "actor": "Exterior_00",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_01",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_02",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_03",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_04",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_05",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_06",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_07",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_08",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Exterior_09",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R1_South_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R1_South_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R1_South_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R1_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R2_North_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R2_North_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R2_North_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R2_South",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R2_West",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R2_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_North_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_North_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_North_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_R7_Shared_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_R7_Shared_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_R7_Shared_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R7_South",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_R7_West",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R3_R7_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R4_West",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R4_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R4_South_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R4_South_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R4_South_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R5_North",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R5_South_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R5_South_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R5_South_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R5_West",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R5_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R6_North",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R6_West_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R6_West_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R6_West_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R6_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R8_North",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R8_South_A",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R8_South_B",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R8_South_Lintel",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R8_West",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "R8_East",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "Floor_00",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Floor.MI_Room1_Floor"
+    },
+    {
+      "actor": "Ceiling_00",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Ceiling.MI_Room1_Ceiling"
+    },
+    {
+      "actor": "Floor_01",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Floor.MI_Room1_Floor"
+    },
+    {
+      "actor": "Ceiling_01",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Ceiling.MI_Room1_Ceiling"
+    },
+    {
+      "actor": "Floor_02",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Floor.MI_Room1_Floor"
+    },
+    {
+      "actor": "Ceiling_02",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Ceiling.MI_Room1_Ceiling"
+    },
+    {
+      "actor": "Floor_03",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Floor.MI_Room1_Floor"
+    },
+    {
+      "actor": "Ceiling_03",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Ceiling.MI_Room1_Ceiling"
+    },
+    {
+      "actor": "R1_South_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R2_North_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R3_North_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R3_R7_Shared_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R4_South_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R5_South_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R6_West_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "R8_South_Threshold",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold.MI_Room1_Threshold"
+    },
+    {
+      "actor": "SM_WallDoor01",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    },
+    {
+      "actor": "SM_Wall01",
+      "material": "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster.MI_Room1_Plaster"
+    }
+  ],
+  "created": [
+    "/Game/HorrorWhitebox/Materials/Room1Finish/M_Room1_WorldScaled",
+    "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Plaster",
+    "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Floor",
+    "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Ceiling",
+    "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Skirting",
+    "/Game/HorrorWhitebox/Materials/Room1Finish/MI_Room1_Threshold"
+  ],
+  "skirting_count": 86,
+  "after_actor_count": 203,
+  "saved": true
+}

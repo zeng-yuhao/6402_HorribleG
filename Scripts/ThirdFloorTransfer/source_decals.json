@@ -1,0 +1,420 @@
+[
+  {
+    "name": "MI_Puddle01_8",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_1.MI_Puddle01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_20",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_21",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_14",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_1.MI_Puddle01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_22",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal01_2",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal2",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 1,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_25",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_48",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_26",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_51",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal3",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 1,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal4",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_27",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_49",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_50",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_3.MI_Dirt01_3",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_28",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_56",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_59",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_52",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_30",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_53",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal5_64",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal6",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 1,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_31",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_54",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_32",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_55",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_33",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_72",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal7_75",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_81",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal02_1.MI_BloodDecal02_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal8",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal9",
+    "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal02_2.MI_BloodDecal02_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_34",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_58",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_Puddle01_35",
+    "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  },
+  {
+    "name": "MI_BloodDecal02_59",
+    "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+    "decal_size": [
+      128.0,
+      256.0,
+      256.0
+    ],
+    "sort_order": 0,
+    "fade_screen_size": 0.009999999776482582
+  }
+]

@@ -1,0 +1,364 @@
+{
+  "retained_actors": {
+    "passed": true,
+    "actors_checked": 1006,
+    "components_checked": 938,
+    "errors": []
+  },
+  "four_rooms": {
+    "passed": true,
+    "rooms": [
+      {
+        "room": 3,
+        "passed": true,
+        "before_floor_inner_bounds": [
+          257.0,
+          -401.0,
+          893.0,
+          13.0
+        ],
+        "after_floor_inner_bounds": [
+          257.0,
+          -401.0,
+          893.0,
+          13.0
+        ],
+        "before_size_cm": [
+          636.0,
+          414.0
+        ],
+        "after_size_cm": [
+          636.0,
+          414.0
+        ],
+        "declared_inner_bounds": [
+          257,
+          -401,
+          893,
+          13
+        ]
+      },
+      {
+        "room": 7,
+        "passed": true,
+        "before_floor_inner_bounds": [
+          257.0,
+          39.0,
+          893.0,
+          451.0
+        ],
+        "after_floor_inner_bounds": [
+          257.0,
+          39.0,
+          893.0,
+          451.0
+        ],
+        "before_size_cm": [
+          636.0,
+          412.0
+        ],
+        "after_size_cm": [
+          636.0,
+          412.0
+        ],
+        "declared_inner_bounds": [
+          257,
+          39,
+          893,
+          451
+        ]
+      },
+      {
+        "room": 4,
+        "passed": true,
+        "before_floor_inner_bounds": [
+          997.0,
+          -579.0,
+          1635.0,
+          -167.0
+        ],
+        "after_floor_inner_bounds": [
+          1169.0,
+          -579.0,
+          1807.0,
+          -167.0
+        ],
+        "before_size_cm": [
+          638.0,
+          412.0
+        ],
+        "after_size_cm": [
+          638.0,
+          412.0
+        ],
+        "declared_inner_bounds": [
+          1169,
+          -579,
+          1807,
+          -167
+        ]
+      },
+      {
+        "room": 8,
+        "passed": true,
+        "before_floor_inner_bounds": [
+          997.0,
+          39.0,
+          1635.0,
+          451.0
+        ],
+        "after_floor_inner_bounds": [
+          1169.0,
+          39.0,
+          1807.0,
+          451.0
+        ],
+        "before_size_cm": [
+          638.0,
+          412.0
+        ],
+        "after_size_cm": [
+          638.0,
+          412.0
+        ],
+        "declared_inner_bounds": [
+          1169,
+          39,
+          1807,
+          451
+        ]
+      }
+    ]
+  },
+  "corridor_clear_widths": {
+    "passed": true,
+    "measurements": [
+      {
+        "name": "room1_room5_horizontal",
+        "cross_section": {
+          "axis": "X",
+          "cm": -1200
+        },
+        "before": {
+          "width_cm": 128.66082875887616,
+          "lower_finished_edge_cm": -179.33041437956072,
+          "upper_finished_edge_cm": -50.66958562068455,
+          "lower_actor": "TF_R00_base_026_01",
+          "upper_actor": "TF_R00_base_017_01"
+        },
+        "after": {
+          "width_cm": 200.6608287588762,
+          "lower_finished_edge_cm": -251.33041437956075,
+          "upper_finished_edge_cm": -50.66958562068455,
+          "lower_actor": "TF_R00_base_026_01",
+          "upper_actor": "TF_R00_base_017_01"
+        },
+        "passed": true
+      },
+      {
+        "name": "room3_room4_vertical",
+        "cross_section": {
+          "axis": "Y",
+          "cm": -194
+        },
+        "before": {
+          "width_cm": 28.660828781127975,
+          "lower_finished_edge_cm": 930.669585609436,
+          "upper_finished_edge_cm": 959.330414390564,
+          "lower_actor": "TF_R09_base_039_01",
+          "upper_actor": "TF_R09_base_040_01"
+        },
+        "after": {
+          "width_cm": 200.66082878112786,
+          "lower_finished_edge_cm": 930.669585609436,
+          "upper_finished_edge_cm": 1131.3304143905639,
+          "lower_actor": "TF_R09_base_039_01",
+          "upper_actor": "TF_R09_base_040_02"
+        },
+        "passed": true
+      },
+      {
+        "name": "room7_room8_vertical",
+        "cross_section": {
+          "axis": "Y",
+          "cm": 245
+        },
+        "before": {
+          "width_cm": 28.660828781127975,
+          "lower_finished_edge_cm": 930.669585609436,
+          "upper_finished_edge_cm": 959.330414390564,
+          "lower_actor": "TF_R09_base_039_03",
+          "upper_actor": "TF_R09_base_041_00"
+        },
+        "after": {
+          "width_cm": 200.66082878112786,
+          "lower_finished_edge_cm": 930.669585609436,
+          "upper_finished_edge_cm": 1131.3304143905639,
+          "lower_actor": "TF_R09_base_039_03",
+          "upper_actor": "TF_R09_base_041_00"
+        },
+        "passed": true
+      }
+    ]
+  },
+  "wall_solids": {
+    "passed": true,
+    "wall_count": 69,
+    "positive_volume_overlaps": [],
+    "missing_applied_boxes": [],
+    "unexpected_boxes": []
+  },
+  "floors": {
+    "passed": true,
+    "flat_floor_count": 55,
+    "same_height_surface_overlaps": [],
+    "collision_floor_coverage_cells": 531,
+    "uncovered_rectangles": [],
+    "note": "Coverage includes the intentional -8cm collision subfloors; source broken meshes are excluded from flat-surface overlap checks."
+  },
+  "corridor_navigation": {
+    "passed": true,
+    "grid_cm": 10.0,
+    "player_radius_cm": 35.0,
+    "checks": [
+      {
+        "name": "horizontal_corridor",
+        "passed": true,
+        "start": [
+          -1630,
+          -150
+        ],
+        "goal": [
+          -780,
+          -150
+        ],
+        "endpoint_snap_cm": [
+          0.0,
+          0.0
+        ],
+        "free_grid_cells": 1436,
+        "obstacle_count": 29,
+        "path_length_cm": 850.0,
+        "minimum_center_obstacle_distance_cm": 99.33041437931544,
+        "path_samples_every_100cm": [
+          [
+            -1630.0,
+            -150.0
+          ],
+          [
+            -1530.0,
+            -150.0
+          ],
+          [
+            -1430.0,
+            -150.0
+          ],
+          [
+            -1330.0,
+            -150.0
+          ],
+          [
+            -1230.0,
+            -150.0
+          ],
+          [
+            -1130.0,
+            -150.0
+          ],
+          [
+            -1030.0,
+            -150.0
+          ],
+          [
+            -930.0,
+            -150.0
+          ],
+          [
+            -830.0,
+            -150.0
+          ],
+          [
+            -780.0,
+            -150.0
+          ]
+        ]
+      },
+      {
+        "name": "vertical_corridor",
+        "passed": true,
+        "start": [
+          1030,
+          -460
+        ],
+        "goal": [
+          1030,
+          540
+        ],
+        "endpoint_snap_cm": [
+          0.0,
+          0.0
+        ],
+        "free_grid_cells": 1505,
+        "obstacle_count": 55,
+        "path_length_cm": 1000.0,
+        "minimum_center_obstacle_distance_cm": 96.48799208051558,
+        "path_samples_every_100cm": [
+          [
+            1030.0,
+            -460.0
+          ],
+          [
+            1030.0,
+            -360.0
+          ],
+          [
+            1030.0,
+            -260.0
+          ],
+          [
+            1030.0,
+            -160.0
+          ],
+          [
+            1030.0,
+            -60.0
+          ],
+          [
+            1030.0,
+            40.0
+          ],
+          [
+            1030.0,
+            140.0
+          ],
+          [
+            1030.0,
+            240.0
+          ],
+          [
+            1030.0,
+            340.0
+          ],
+          [
+            1030.0,
+            440.0
+          ],
+          [
+            1030.0,
+            540.0
+          ],
+          [
+            1030.0,
+            540.0
+          ]
+        ]
+      }
+    ],
+    "limitations": "Conservative world AABB checks at Z=30..190cm with visual mouldings included; this is not Unreal NavMesh or an in-game capsule test."
+  },
+  "unique_actor_labels": {
+    "passed": true,
+    "duplicates": {}
+  },
+  "all_passed": true
+}

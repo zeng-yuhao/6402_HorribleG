@@ -1,0 +1,1926 @@
+{
+  "rooms": {
+    "1": {
+      "source_room": "01",
+      "target_inner_bounds": [
+        -1815,
+        -631,
+        -891,
+        -217
+      ],
+      "source_candidates": 101,
+      "placed": 100,
+      "furniture": [
+        {
+          "mesh": "SM_Chair01",
+          "source": {
+            "actor": "SM_Chair01HISMA_1249",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1655.0,
+            -408.0,
+            3.44781494140625
+          ],
+          "yaw": 111.99999999999997
+        },
+        {
+          "mesh": "SM_Desk01_1",
+          "source": {
+            "actor": "SM_Desk01_1HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1756.5946179199218,
+            -408.77087402343756,
+            3.93585205078125
+          ],
+          "yaw": -269.9999863396168
+        },
+        {
+          "mesh": "SM_Desk01_6",
+          "source": {
+            "actor": "SM_Desk01_6HISMA_1255",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1215.0,
+            -375.0,
+            2.7620849609375
+          ],
+          "yaw": -94.0
+        },
+        {
+          "mesh": "SM_LeatherChair01",
+          "source": {
+            "actor": "SM_LeatherChair01HISMA_1283",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1450.0,
+            -319.0,
+            3.63726806640625
+          ],
+          "yaw": 17.0
+        },
+        {
+          "mesh": "SM_LeatherSofa01",
+          "source": {
+            "actor": "SM_LeatherSofa01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1330.0,
+            -529.6,
+            0.0
+          ],
+          "yaw": -175.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1286",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -945.8916015625,
+            -424.10205078124994,
+            2.774169921875
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1286",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -1059.405361328125,
+            -576.9156494140625,
+            2.77423095703125
+          ],
+          "yaw": -179.99999657928447
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1286",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -1059.405361328125,
+            -271.0372314453125,
+            2.7742919921875
+          ],
+          "yaw": -3.4207155437115944e-06
+        },
+        {
+          "mesh": "SM_Locker01_5",
+          "source": {
+            "actor": "SM_Locker01_5HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1682.4336010742188,
+            -581.4930725097656,
+            2.77423095703125
+          ],
+          "yaw": -179.99999657928447
+        }
+      ],
+      "unique_meshes": 43
+    },
+    "2": {
+      "source_room": "04",
+      "target_inner_bounds": [
+        -698,
+        -631,
+        -36,
+        -26
+      ],
+      "source_candidates": 147,
+      "placed": 99,
+      "furniture": [
+        {
+          "mesh": "SM_AutopsyTable01",
+          "source": {
+            "actor": "SM_AutopsyTable01HISMA_1047",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -367.0,
+            -350.0,
+            0.0
+          ],
+          "yaw": -180.0
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -645.0,
+            -575.0,
+            0.10430908203125
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -575.0,
+            -575.0,
+            0.10430908203125
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -505.0,
+            -575.0,
+            0.10430908203125
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 3
+          },
+          "p": [
+            -435.0,
+            -575.0,
+            0.104248046875
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 4
+          },
+          "p": [
+            -505.0,
+            -80.0,
+            0.10430908203125
+          ],
+          "yaw": 179.99999999999997
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 5
+          },
+          "p": [
+            -435.0,
+            -80.0,
+            0.10430908203125
+          ],
+          "yaw": 180.00000000000003
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 6
+          },
+          "p": [
+            -365.0,
+            -80.0,
+            0.104248046875
+          ],
+          "yaw": 180.0
+        },
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1073",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 7
+          },
+          "p": [
+            -295.0,
+            -80.0,
+            0.00360107421875
+          ],
+          "yaw": 180.0
+        },
+        {
+          "mesh": "SM_Desk01_6",
+          "source": {
+            "actor": "SM_Desk01_6HISMA_1075",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -135.0,
+            -100.0,
+            3.57806396484375
+          ],
+          "yaw": -9.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_1077",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -245.0,
+            -195.0,
+            3.57806396484375
+          ],
+          "yaw": -180.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_1077",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -620.0,
+            -141.08589040246397,
+            0.13726806640625
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_1077",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -180.0,
+            -555.0,
+            0.13726806640625
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_MedicalTable01",
+          "source": {
+            "actor": "SM_MedicalTable01HISMA_1100",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -460.0,
+            -220.0,
+            0.0035400390625
+          ],
+          "yaw": -159.0
+        },
+        {
+          "mesh": "SM_MedicalTable02",
+          "source": {
+            "actor": "SM_MedicalTable02HISMA_1102",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -135.0,
+            -350.0,
+            4.16839599609375
+          ],
+          "yaw": 122.99999999999997
+        },
+        {
+          "mesh": "SM_MedicalTable02",
+          "source": {
+            "actor": "SM_MedicalTable02HISMA_1102",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -637.0160407862166,
+            -350.0,
+            4.16839599609375
+          ],
+          "yaw": 63.0
+        },
+        {
+          "mesh": "SM_MedicalTable02",
+          "source": {
+            "actor": "SM_MedicalTable02HISMA_1102",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -345.0,
+            -475.0,
+            4.16839599609375
+          ],
+          "yaw": 62.0
+        }
+      ],
+      "unique_meshes": 34
+    },
+    "3": {
+      "source_room": "05",
+      "target_inner_bounds": [
+        257,
+        -401,
+        893,
+        13
+      ],
+      "source_candidates": 110,
+      "placed": 101,
+      "furniture": [
+        {
+          "mesh": "SM_AutopsyTable01",
+          "source": {
+            "actor": "SM_AutopsyTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            510.0,
+            -194.0,
+            0.0
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Sink01",
+          "source": {
+            "actor": "SM_Sink01HISMA_932",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            890.9793663024902,
+            -348.0,
+            0.0
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_961",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            825.0,
+            -195.0,
+            0.0035400390625
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_980",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            455.0,
+            -355.0,
+            0.7279052734375
+          ],
+          "yaw": -180.0
+        },
+        {
+          "mesh": "SM_MedicalBed01",
+          "source": {
+            "actor": "SM_MedicalBed01HISMA_990",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            320.0,
+            -184.0,
+            0.0035400390625
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_MedicalTable02",
+          "source": {
+            "actor": "SM_MedicalTable02HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            430.0,
+            -56.82861308779406,
+            0.47540283203125
+          ],
+          "yaw": -48.0
+        },
+        {
+          "mesh": "SM_MedicalTable01",
+          "source": {
+            "actor": "SM_MedicalTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            820.0,
+            -50.0,
+            0.3021240234375
+          ],
+          "yaw": 14.0
+        }
+      ],
+      "unique_meshes": 28
+    },
+    "4": {
+      "source_room": "07",
+      "target_inner_bounds": [
+        997,
+        -579,
+        1635,
+        -167
+      ],
+      "source_candidates": 195,
+      "placed": 170,
+      "furniture": [
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_811",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 3
+          },
+          "p": [
+            1580.0,
+            -277.0,
+            3.48382568359375
+          ],
+          "yaw": 63.0
+        },
+        {
+          "mesh": "SM_Desk01_2",
+          "source": {
+            "actor": "SM_Desk01_2HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            1095.0,
+            -395.0,
+            2.001220703125
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_817",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            1305.0,
+            -518.0,
+            3.1484375
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_817",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            1388.0,
+            -347.0,
+            3.1484375
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_817",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            1515.0,
+            -518.0,
+            3.1484375
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_817",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 3
+          },
+          "p": [
+            1487.0,
+            -347.0,
+            3.1484375
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_LeatherChair01",
+          "source": {
+            "actor": "SM_LeatherChair01HISMA_855",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            1223.0,
+            -395.0,
+            0.0035400390625
+          ],
+          "yaw": 90.0
+        },
+        {
+          "mesh": "SM_Locker01_3",
+          "source": {
+            "actor": "SM_Locker01_3HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            1080.6155963173155,
+            -539.4594361508227,
+            0.0035400390625
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Locker01_3",
+          "source": {
+            "actor": "SM_Locker01_3HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            1340.0,
+            -209.0,
+            0.0035400390625
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Locker01_3",
+          "source": {
+            "actor": "SM_Locker01_3HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            1540.0,
+            -209.0,
+            0.0035400390625
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Locker01_2",
+          "source": {
+            "actor": "SM_Locker01_2HISMA_858",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            1295.0,
+            -347.0,
+            3.9498291015625
+          ],
+          "yaw": 90.0
+        },
+        {
+          "mesh": "SM_Sink01",
+          "source": {
+            "actor": "SM_Sink01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            1620.0,
+            -355.0,
+            2.11279296875
+          ],
+          "yaw": 0.0
+        }
+      ],
+      "unique_meshes": 69
+    },
+    "5": {
+      "source_room": "02",
+      "target_inner_bounds": [
+        -1527,
+        -13,
+        -891,
+        401
+      ],
+      "source_candidates": 186,
+      "placed": 184,
+      "furniture": [
+        {
+          "mesh": "SM_Chair02_1",
+          "source": {
+            "actor": "SM_Chair02_1HISMA_1189",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1008.0,
+            325.0,
+            0.0
+          ],
+          "yaw": -210.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -1485.0,
+            169.0,
+            0.00360107421875
+          ],
+          "yaw": 90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -1283.0,
+            169.0,
+            0.00408935546875
+          ],
+          "yaw": 90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -1340.0,
+            169.0,
+            0.004150390625
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 3
+          },
+          "p": [
+            -936.0,
+            169.0,
+            0.00457763671875
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 4
+          },
+          "p": [
+            -1081.0,
+            169.0,
+            0.004150390625
+          ],
+          "yaw": 90.0
+        },
+        {
+          "mesh": "SM_Locker01_4",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 5
+          },
+          "p": [
+            -1138.0,
+            169.0,
+            0.00421142578125
+          ],
+          "yaw": -90.0
+        }
+      ],
+      "unique_meshes": 18
+    },
+    "6": {
+      "source_room": "06",
+      "target_inner_bounds": [
+        -685,
+        165,
+        -49,
+        579
+      ],
+      "source_candidates": 85,
+      "placed": 83,
+      "furniture": [
+        {
+          "mesh": "SM_Sink01",
+          "source": {
+            "actor": "SM_Sink01HISMA_920",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -490.0,
+            576.9793620105796,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        },
+        {
+          "mesh": "SM_Sink01",
+          "source": {
+            "actor": "SM_Sink01HISMA_920",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -590.0,
+            576.9793620105796,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        },
+        {
+          "mesh": "SM_Sink01",
+          "source": {
+            "actor": "SM_Sink01HISMA_920",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -390.0,
+            576.9793620105796,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        },
+        {
+          "mesh": "SM_Sink01",
+          "source": {
+            "actor": "SM_Sink01HISMA_920",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 3
+          },
+          "p": [
+            -290.0,
+            576.9793620105796,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        },
+        {
+          "mesh": "SM_ToiletBowl01_1",
+          "source": {
+            "actor": "SM_ToiletBowl01_1HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -516.5348510742188,
+            209.75677490234375,
+            0.0
+          ],
+          "yaw": 89.99999657928446
+        },
+        {
+          "mesh": "SM_ToiletBowl01_4",
+          "source": {
+            "actor": "SM_ToiletBowl01_4HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -366.53485107421875,
+            209.75677490234375,
+            0.0
+          ],
+          "yaw": 89.99999657928446
+        },
+        {
+          "mesh": "SM_ToiletBowl01_4",
+          "source": {
+            "actor": "SM_ToiletBowl01_4HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -216.53485107421875,
+            209.75677490234375,
+            0.0
+          ],
+          "yaw": 89.99999657928446
+        },
+        {
+          "mesh": "SM_ToiletBooth01",
+          "source": {
+            "actor": "SM_ToiletBooth01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            -567.0,
+            197.7,
+            0.0
+          ],
+          "yaw": 90.0
+        },
+        {
+          "mesh": "SM_ToiletBooth01",
+          "source": {
+            "actor": "SM_ToiletBooth01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            -440.0,
+            197.6912841796875,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        },
+        {
+          "mesh": "SM_ToiletBooth01",
+          "source": {
+            "actor": "SM_ToiletBooth01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "p": [
+            -290.0,
+            197.6912841796875,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        },
+        {
+          "mesh": "SM_ToiletBooth01",
+          "source": {
+            "actor": "SM_ToiletBooth01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 3
+          },
+          "p": [
+            -140.0,
+            197.6912841796875,
+            0.0
+          ],
+          "yaw": 90.00000682456903
+        }
+      ],
+      "unique_meshes": 12
+    },
+    "7": {
+      "source_room": "05",
+      "target_inner_bounds": [
+        257,
+        39,
+        893,
+        451
+      ],
+      "source_candidates": 36,
+      "placed": 36,
+      "furniture": [
+        {
+          "mesh": "SM_AutopsyTable01",
+          "source": {
+            "actor": "SM_AutopsyTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            550.0,
+            260.0,
+            0.0
+          ],
+          "yaw": 0.0
+        },
+        {
+          "mesh": "SM_Chair01",
+          "source": {
+            "actor": "SM_Chair01HISMA_955",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            735.0,
+            300.0,
+            1.161865234375
+          ],
+          "yaw": -106.99999999999999
+        },
+        {
+          "mesh": "SM_Desk01_5",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_961",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            825.0,
+            220.0,
+            0.0035400390625
+          ],
+          "yaw": -90.0
+        },
+        {
+          "mesh": "SM_MedicalTable02",
+          "source": {
+            "actor": "SM_MedicalTable02HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "p": [
+            740.0,
+            390.0,
+            0.47540283203125
+          ],
+          "yaw": -167.0
+        },
+        {
+          "mesh": "SM_MedicalTable01",
+          "source": {
+            "actor": "SM_MedicalTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "p": [
+            350.0,
+            165.0,
+            2.382568359375
+          ],
+          "yaw": -45.00000000000001
+        }
+      ],
+      "unique_meshes": 19
+    }
+  },
+  "omitted": [
+    {
+      "room": 1,
+      "source": {
+        "actor": "SM_Battery01_1HISMA_1234",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Battery01_1.SM_Battery01_1",
+      "reason": "Surplus radiator omitted because source wall position conflicts with relocated furniture or a doorway."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 8
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 9
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 31
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 10
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Lamp02_5HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp02_5.SM_Lamp02_5",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_FolderPaper01_4HISMA_1122",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_4.SM_FolderPaper01_4",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 11
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 12
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 30
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 13
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 14
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 15
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 29
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 16
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 17
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Lamp02_5HISMA_1082",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp02_5.SM_Lamp02_5",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Lamp02_5HISMA_1082",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp02_5.SM_Lamp02_5",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 28
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 18
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 27
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 19
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 24
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 20
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 21
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 22
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 22
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 23
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 21
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_FolderPaper01_2HISMA_1124",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_2.SM_FolderPaper01_2",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 24
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Lamp02_5HISMA_1082",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp02_5.SM_Lamp02_5",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 25
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 20
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 26
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_1073",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 27
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 18
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 19
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Lamp03_1HISMA_1079",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+      "reason": "Second crossed chandelier bar omitted to prevent duplicate fixture intersection."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Lamp03_1HISMA_1079",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+      "reason": "Second crossed chandelier bar omitted to prevent duplicate fixture intersection."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 36
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 34
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 33
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 32
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 26
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 23
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Debris01HISMA_1110",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 25
+      },
+      "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Basin01HISMA_1051",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Basin01.SM_Basin01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "SM_Basin01HISMA_1051",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Basin01.SM_Basin01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Sink01HISMA_932",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Sink01.SM_Sink01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_953",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Book01_3HISMA_941",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_3.SM_Book01_3",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Book01_2HISMA_943",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_2.SM_Book01_2",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_953",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 4
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Battery01_1HISMA_936",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Battery01_1.SM_Battery01_1",
+      "reason": "Surplus radiator omitted because source wall position conflicts with relocated furniture or a doorway."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Battery01_1HISMA_936",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Battery01_1.SM_Battery01_1",
+      "reason": "Surplus radiator omitted because source wall position conflicts with relocated furniture or a doorway."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Basin01HISMA_934",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Basin01.SM_Basin01",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "SM_Cloth01_6HISMA_957",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Cloth01_6.SM_Cloth01_6",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_811",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_811",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Chair02_1HISMA_811",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Chair02_1.SM_Chair02_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Locker01_2HISMA_858",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/Furniture/SM_Locker01_2.SM_Locker01_2",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_10HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 6
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_10.SM_Book01_10",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_10HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 7
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_10.SM_Book01_10",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_9HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 6
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_9.SM_Book01_9",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_9HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 7
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_9.SM_Book01_9",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_1HISMA_804",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_1.SM_Book01_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_8HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_8.SM_Book01_8",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_7HISMA_807",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_7.SM_Book01_7",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Medications01_1HISMA_867",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_1.SM_Medications01_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Medications01_1HISMA_867",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_1.SM_Medications01_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Medications01_1HISMA_867",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 4
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_1.SM_Medications01_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Medications01_1HISMA_867",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 5
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_1.SM_Medications01_1",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Medications01_2HISMA_869",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_2.SM_Medications01_2",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Scales01HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Scales01.SM_Scales01",
+      "reason": "Surplus furniture/support contents omitted to maintain usable room and door clearances."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Battery01_2HISMA_798",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Battery01_2.SM_Battery01_2",
+      "reason": "Surplus radiator omitted because source wall position conflicts with relocated furniture or a doorway."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Battery01_2HISMA_798",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Battery01_2.SM_Battery01_2",
+      "reason": "Surplus radiator omitted because source wall position conflicts with relocated furniture or a doorway."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_4HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_4.SM_Book01_4",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_8HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_8.SM_Book01_8",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_8HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_8.SM_Book01_8",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_8HISMA",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 4
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_8.SM_Book01_8",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Book01_7HISMA_807",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 3
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_7.SM_Book01_7",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 4,
+      "source": {
+        "actor": "SM_Locker01Door01_3HISMA_861",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 2
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/Furniture/SM_Locker01Door01_3.SM_Locker01Door01_3",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 5,
+      "source": {
+        "actor": "SM_Bucket01_2HISMA_1187",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Bucket01_2.SM_Bucket01_2",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 5,
+      "source": {
+        "actor": "SM_Barrel01_1HISMA_1183",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 0
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Barrel01_1.SM_Barrel01_1",
+      "reason": "Detail exceeded the room shell after rigid group placement."
+    },
+    {
+      "room": 6,
+      "source": {
+        "actor": "SM_Pipe01_2HISMA_910",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 1
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Pipe01_2.SM_Pipe01_2",
+      "reason": "Plumbing return extends beyond target wall; remaining network retained at source scale."
+    },
+    {
+      "room": 6,
+      "source": {
+        "actor": "SM_Pipe01_4HISMA_918",
+        "component": "HierarchicalInstancedStaticMesh",
+        "instance": 21
+      },
+      "mesh": "/Game/Asylum/Meshes/Props/SM_Pipe01_4.SM_Pipe01_4",
+      "reason": "Plumbing return extends beyond target wall; remaining network retained at source scale."
+    }
+  ]
+}

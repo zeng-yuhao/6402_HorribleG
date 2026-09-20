@@ -1,0 +1,11 @@
+{
+  "saved": true,
+  "local_job_dispatch_stopped": true,
+  "restored_postprocess": [
+    {
+      "actor": "PostProcessVolume_0",
+      "enabled": true
+    }
+  ],
+  "completed": "2026-09-20T16:13:12.653574"
+}

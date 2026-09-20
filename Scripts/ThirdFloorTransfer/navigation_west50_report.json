@@ -1,0 +1,896 @@
+{
+  "grid_cm": 10.0,
+  "player_radius_cm": 35.0,
+  "player_start": [
+    -1420.0,
+    -110.0
+  ],
+  "grid_start": [
+    -1420.0,
+    -110.0
+  ],
+  "start_adjustment_cm": 0.0,
+  "wall_obstacles": 38,
+  "furniture_obstacles": 98,
+  "free_cells": 11661,
+  "reachable_cells": 10991,
+  "rooms": [
+    {
+      "room": 1,
+      "reachable": true,
+      "reachable_free_cells": 565,
+      "total_free_cells": 836,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        -1350.0,
+        -420.0
+      ],
+      "reached_bounds": [
+        -1780.0,
+        -590.0,
+        -1220.0,
+        -260.0
+      ]
+    },
+    {
+      "room": 2,
+      "reachable": true,
+      "reachable_free_cells": 269,
+      "total_free_cells": 287,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        -430.0,
+        -450.0
+      ],
+      "reached_bounds": [
+        -660.0,
+        -510.0,
+        -80.0,
+        -70.0
+      ]
+    },
+    {
+      "room": 3,
+      "reachable": true,
+      "reachable_free_cells": 345,
+      "total_free_cells": 345,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        580.0,
+        -290.0
+      ],
+      "reached_bounds": [
+        410.0,
+        -360.0,
+        790.0,
+        -30.0
+      ]
+    },
+    {
+      "room": 4,
+      "reachable": true,
+      "reachable_free_cells": 124,
+      "total_free_cells": 128,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        1230.0,
+        -300.0
+      ],
+      "reached_bounds": [
+        1040.0,
+        -300.0,
+        1230.0,
+        -210.0
+      ]
+    },
+    {
+      "room": 5,
+      "reachable": true,
+      "reachable_free_cells": 243,
+      "total_free_cells": 309,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        -1210.0,
+        190.0
+      ],
+      "reached_bounds": [
+        -1490.0,
+        30.0,
+        -1080.0,
+        360.0
+      ]
+    },
+    {
+      "room": 6,
+      "reachable": true,
+      "reachable_free_cells": 991,
+      "total_free_cells": 991,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        -370.0,
+        370.0
+      ],
+      "reached_bounds": [
+        -650.0,
+        200.0,
+        -90.0,
+        540.0
+      ]
+    },
+    {
+      "room": 7,
+      "reachable": true,
+      "reachable_free_cells": 292,
+      "total_free_cells": 603,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        570.0,
+        160.0
+      ],
+      "reached_bounds": [
+        430.0,
+        80.0,
+        850.0,
+        180.0
+      ]
+    },
+    {
+      "room": 8,
+      "reachable": true,
+      "reachable_free_cells": 292,
+      "total_free_cells": 292,
+      "architecture_alone_reachable": true,
+      "sample_reachable_interior": [
+        1320.0,
+        370.0
+      ],
+      "reached_bounds": [
+        1040.0,
+        350.0,
+        1600.0,
+        410.0
+      ]
+    }
+  ],
+  "doors": [
+    {
+      "room": 1,
+      "door": "R1_South",
+      "center": [
+        -1608,
+        -204
+      ],
+      "interior_target": [
+        -1608,
+        -284
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R1_SM_Chair01HISMA_1249_0",
+          "source": {
+            "actor": "SM_Chair01HISMA_1249",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Chair01",
+          "room": 1,
+          "rect": [
+            -1701.5074386351369,
+            -454.50743863513696,
+            -1608.4925613648631,
+            -361.49256136486304
+          ],
+          "z": [
+            3.4549789428710938,
+            107.83805847167969
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R1_SM_Desk01_1HISMA_0",
+          "source": {
+            "actor": "SM_Desk01_1HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Desk01_1",
+          "room": 1,
+          "rect": [
+            -1795.4707555713271,
+            -522.1789407872919,
+            -1717.7184955272983,
+            -295.3628072595868
+          ],
+          "z": [
+            3.935791015625,
+            97.5359878540039
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R1_SM_Desk01_1HISMA_0",
+          "source": {
+            "actor": "SM_Desk01_7HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Desk01_7",
+          "room": 1,
+          "rect": [
+            -1792.5635412593479,
+            -519.7469191591099,
+            -1720.625610657196,
+            -297.79482888774527
+          ],
+          "z": [
+            96.6602783203125,
+            151.78335571289062
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R1_SM_LeatherChair01HISMA_1283_0",
+          "source": {
+            "actor": "SM_LeatherChair01HISMA_1283",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_LeatherChair01",
+          "room": 1,
+          "rect": [
+            -1523.256672732186,
+            -374.2486630964238,
+            -1385.428128594377,
+            -235.34463174357327
+          ],
+          "z": [
+            3.6372756958007812,
+            164.4865951538086
+          ],
+          "kind": "furniture"
+        }
+      ]
+    },
+    {
+      "room": 3,
+      "door": "R3_North",
+      "center": [
+        734,
+        -414
+      ],
+      "interior_target": [
+        734,
+        -334
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R3_SM_Sink01HISMA_932_2",
+          "source": {
+            "actor": "SM_Sink01HISMA_932",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "mesh": "SM_Sink01",
+          "room": 3,
+          "rect": [
+            831.4169692993032,
+            -384.0431327819904,
+            891.0,
+            -311.95685195922056
+          ],
+          "z": [
+            26.67768096923828,
+            95.91935729980469
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R3_SM_Desk01_5HISMA_961_0",
+          "source": {
+            "actor": "SM_Desk01_5HISMA_961",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Desk01_5",
+          "room": 3,
+          "rect": [
+            777.6463249066978,
+            -298.08589009314517,
+            872.3536750933022,
+            -91.91410990685483
+          ],
+          "z": [
+            0.07187652587890625,
+            92.11732482910156
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R3_SM_Locker01_4HISMA_980_0",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_980",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Locker01_4",
+          "room": 3,
+          "rect": [
+            333.4189598060909,
+            -382.54056220763147,
+            576.5809791587601,
+            -327.45937675721956
+          ],
+          "z": [
+            0.8129119873046875,
+            269.6254119873047
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R09_North_Bed_B",
+          "source": {
+            "actor": "SM_Bed01_5HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "component_index": 0,
+            "instance": 0
+          },
+          "mesh": "SM_Bed01_5",
+          "room": 9,
+          "rect": [
+            577.6562813018145,
+            -626.4751431440794,
+            852.6822502768314,
+            -519.5247805619756
+          ],
+          "z": [
+            2.1602783203125,
+            102.3199234008789
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R09_Wheelchair",
+          "source": {
+            "actor": "SM_WheelChair01HISMA_705",
+            "component": "HierarchicalInstancedStaticMesh",
+            "component_index": 0,
+            "instance": 0
+          },
+          "mesh": "SM_WheelChair01",
+          "room": 9,
+          "rect": [
+            874.6438733022358,
+            -619.9873523069022,
+            953.3669736945394,
+            -518.6285947536819
+          ],
+          "z": [
+            3.4826583862304688,
+            120.95835876464844
+          ],
+          "kind": "furniture"
+        }
+      ]
+    },
+    {
+      "room": 7,
+      "door": "R3_R7_Shared",
+      "center": [
+        558,
+        26
+      ],
+      "interior_target": [
+        558,
+        106
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R3_SM_AutopsyTable01HISMA_0",
+          "source": {
+            "actor": "SM_AutopsyTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_AutopsyTable01",
+          "room": 3,
+          "rect": [
+            362.6349345880757,
+            -254.39135785206167,
+            637.3650654119243,
+            -133.60864214793833
+          ],
+          "z": [
+            0.06201171875,
+            86.15031433105469
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R3_SM_MedicalTable02HISMA_0",
+          "source": {
+            "actor": "SM_MedicalTable02HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_MedicalTable02",
+          "room": 3,
+          "rect": [
+            373.947648710482,
+            -110.42031635811625,
+            482.23742055454113,
+            1.0
+          ],
+          "z": [
+            0.5096511840820312,
+            84.0554428100586
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R7_SM_AutopsyTable01HISMA_1",
+          "source": {
+            "actor": "SM_AutopsyTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "mesh": "SM_AutopsyTable01",
+          "room": 7,
+          "rect": [
+            412.6349345880757,
+            199.60864214793833,
+            687.3650654119243,
+            320.3913578520617
+          ],
+          "z": [
+            0.06201171875,
+            86.15031433105469
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R7_SM_MedicalTable01HISMA_0",
+          "source": {
+            "actor": "SM_MedicalTable01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_MedicalTable01",
+          "room": 7,
+          "rect": [
+            293.8051631850323,
+            108.8051631850323,
+            406.1948368149677,
+            221.1948368149677
+          ],
+          "z": [
+            1.9143218994140625,
+            109.718994140625
+          ],
+          "kind": "furniture"
+        }
+      ]
+    },
+    {
+      "room": 4,
+      "door": "R4_South",
+      "center": [
+        1176,
+        -154
+      ],
+      "interior_target": [
+        1176,
+        -234
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R4_SM_Desk01_2HISMA_0",
+          "source": {
+            "actor": "SM_Desk01_2HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Desk01_2",
+          "room": 4,
+          "rect": [
+            1011.3275545465852,
+            -508.4080574950672,
+            1133.8761106128088,
+            -281.5919425049328
+          ],
+          "z": [
+            2.00115966796875,
+            95.60135650634766
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R4_SM_Desk01_2HISMA_0",
+          "source": {
+            "actor": "SM_Desk01_8HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Desk01_8",
+          "room": 4,
+          "rect": [
+            1059.0310191960314,
+            -505.9760365600191,
+            1130.9688968806688,
+            -284.0239634399809
+          ],
+          "z": [
+            94.72564697265625,
+            149.84872436523438
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R4_SM_Locker01_3HISMA_1",
+          "source": {
+            "actor": "SM_Locker01_3HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "mesh": "SM_Locker01_3",
+          "room": 4,
+          "rect": [
+            1268.3844036826845,
+            -236.54056384917723,
+            1411.6157183876207,
+            -181.45937511567016
+          ],
+          "z": [
+            0.0885467529296875,
+            268.9010467529297
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R4_SM_Locker01_3HISMA_1",
+          "source": {
+            "actor": "SM_Locker01Door01_3HISMA_861",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "mesh": "SM_Locker01Door01_3",
+          "room": 4,
+          "rect": [
+            1279.0525250739167,
+            -235.6813194278328,
+            1339.7113936910798,
+            -228.2108962577657
+          ],
+          "z": [
+            13.403656005859375,
+            250.66195678710938
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R4_SM_Locker01_2HISMA_858_0",
+          "source": {
+            "actor": "SM_Locker01_2HISMA_858",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Locker01_2",
+          "room": 4,
+          "rect": [
+            1267.4594476416416,
+            -418.61550540183293,
+            1322.5405523583584,
+            -275.3842504576585
+          ],
+          "z": [
+            4.034881591796875,
+            272.84735107421875
+          ],
+          "kind": "furniture"
+        }
+      ]
+    },
+    {
+      "room": 5,
+      "door": "R5_South",
+      "center": [
+        -1342,
+        414
+      ],
+      "interior_target": [
+        -1342,
+        334
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R5_SM_Locker01_4HISMA_1195_0",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_Locker01_4",
+          "room": 5,
+          "rect": [
+            -1512.5405523583584,
+            47.4190643219883,
+            -1457.4593866065145,
+            290.58099671313886
+          ],
+          "z": [
+            0.0886077880859375,
+            268.90110778808594
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R5_SM_Locker01_4HISMA_1195_0",
+          "source": {
+            "actor": "SM_TripodDropper01HISMA_1222",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_TripodDropper01",
+          "room": 5,
+          "rect": [
+            -1445.6096568094017,
+            203.00566511981793,
+            -1374.2347313450423,
+            274.3805295490356
+          ],
+          "z": [
+            0.0035400390625,
+            206.24513244628906
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R5_SM_Locker01_4HISMA_1195_0",
+          "source": {
+            "actor": "SM_TripodDropper01HISMA_1222",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "mesh": "SM_TripodDropper01",
+          "room": 5,
+          "rect": [
+            -1457.4759618698429,
+            139.5192828495426,
+            -1359.026174360991,
+            237.96905130619967
+          ],
+          "z": [
+            0.0035400390625,
+            206.24513244628906
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R5_SM_Locker01_4HISMA_1195_1",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 1
+          },
+          "mesh": "SM_Locker01_4",
+          "room": 5,
+          "rect": [
+            -1310.5405523583584,
+            47.4190643219883,
+            -1255.4593866065145,
+            290.58099671313886
+          ],
+          "z": [
+            0.0890960693359375,
+            268.90159606933594
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R5_SM_Locker01_4HISMA_1195_2",
+          "source": {
+            "actor": "SM_Locker01_4HISMA_1195",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 2
+          },
+          "mesh": "SM_Locker01_4",
+          "room": 5,
+          "rect": [
+            -1367.540626525879,
+            47.4189453125,
+            -1312.4594345092773,
+            290.58099365234375
+          ],
+          "z": [
+            0.0891571044921875,
+            268.9016571044922
+          ],
+          "kind": "furniture"
+        }
+      ]
+    },
+    {
+      "room": 6,
+      "door": "R6_West",
+      "center": [
+        -698,
+        328
+      ],
+      "interior_target": [
+        -618,
+        328
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R6_SM_ToiletBowl01_1HISMA_0",
+          "source": {
+            "actor": "SM_ToiletBowl01_1HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_ToiletBowl01_1",
+          "room": 6,
+          "rect": [
+            -542.7693822251006,
+            193.53732908732786,
+            -490.3003170100344,
+            274.7730097916858
+          ],
+          "z": [
+            -1.2744903564453125,
+            218.9649658203125
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R6_SM_ToiletBooth01HISMA_0",
+          "source": {
+            "actor": "SM_ToiletBooth01HISMA",
+            "component": "HierarchicalInstancedStaticMesh",
+            "instance": 0
+          },
+          "mesh": "SM_ToiletBooth01",
+          "room": 6,
+          "rect": [
+            -570.7054212268936,
+            193.81491417199882,
+            -563.2948686900813,
+            344.40336039642386
+          ],
+          "z": [
+            -0.89013671875,
+            303.5445251464844
+          ],
+          "kind": "furniture"
+        }
+      ]
+    },
+    {
+      "room": 8,
+      "door": "R8_South",
+      "center": [
+        1446,
+        464
+      ],
+      "interior_target": [
+        1446,
+        384
+      ],
+      "reachable_through_door_area": true,
+      "nearby_furniture": [
+        {
+          "id": "R08_Bed_B",
+          "source": {
+            "actor": "SM_Bed01_3HISMA_721",
+            "component": "HierarchicalInstancedStaticMesh",
+            "component_index": 0,
+            "instance": 0
+          },
+          "mesh": "SM_Bed01_3",
+          "room": 8,
+          "rect": [
+            1263.972041912622,
+            56.42948000264231,
+            1372.094686322066,
+            331.90916344110923
+          ],
+          "z": [
+            2.162109375,
+            102.18051147460938
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R08_Bed_C",
+          "source": {
+            "actor": "SM_Bed01_5HISMA_717",
+            "component": "HierarchicalInstancedStaticMesh",
+            "component_index": 0,
+            "instance": 0
+          },
+          "mesh": "SM_Bed01_5",
+          "room": 8,
+          "rect": [
+            1478.6006380116596,
+            51.07380398537136,
+            1619.3739520305771,
+            337.3897037044808
+          ],
+          "z": [
+            2.162109375,
+            102.3217544555664
+          ],
+          "kind": "furniture"
+        },
+        {
+          "id": "R08_Bedside_Food",
+          "source": {
+            "actor": "SM_Desk01_6HISMA_739",
+            "component": "HierarchicalInstancedStaticMesh",
+            "component_index": 0,
+            "instance": 2
+          },
+          "mesh": "SM_Desk01_6",
+          "room": 8,
+          "rect": [
+            1380.6463241577148,
+            238.0252685546875,
+            1475.3536758422852,
+            309.9747314453125
+          ],
+          "z": [
+            2.0678482055664062,
+            94.11329650878906
+          ],
+          "kind": "furniture"
+        }
+      ]
+    }
+  ],
+  "hall": [
+    {
+      "label": "north_hall",
+      "target": [
+        410,
+        -455
+      ],
+      "reachable": true
+    },
+    {
+      "label": "west_hall",
+      "target": [
+        180,
+        0
+      ],
+      "reachable": true
+    },
+    {
+      "label": "south_hall",
+      "target": [
+        510,
+        535
+      ],
+      "reachable": true
+    },
+    {
+      "label": "east_return",
+      "target": [
+        1740,
+        520
+      ],
+      "reachable": true
+    }
+  ],
+  "all_rooms_reachable": true,
+  "all_door_areas_reachable": true,
+  "limitations": [
+    "Conservative mesh AABB navigation proxy, not Unreal cooked collision or NavMesh.",
+    "Small d\u00e9cor and overhead lamps intentionally ignored; collision:false excluded.",
+    "Room success means reaching an empty interior cell, not the furniture-occupied center."
+  ]
+}

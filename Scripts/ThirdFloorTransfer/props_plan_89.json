@@ -1,0 +1,2570 @@
+[
+  {
+    "room": 8,
+    "group": "R08_Bed_A",
+    "source": {
+      "actor": "SM_Bed01_1HISMA_715",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_1.SM_Bed01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        1093.0,
+        202.0,
+        2.161865234375
+      ],
+      "r": [
+        0.0,
+        264.43852091010893,
+        -0.0
+      ],
+      "s": [
+        1.0000000011228858,
+        1.0000000011228858,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bed_A",
+    "source": {
+      "actor": "SM_Mattress01_4HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_4.SM_Mattress01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        1101.2919921875,
+        252.63614654541016,
+        55.00921630859375
+      ],
+      "r": [
+        0.0,
+        93.97634430608923,
+        -0.0
+      ],
+      "s": [
+        0.9999999815941414,
+        0.9999999815941414,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bed_B",
+    "source": {
+      "actor": "SM_Bed01_3HISMA_721",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_3.SM_Bed01_3",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        1318.0,
+        202.0,
+        2.162109375
+      ],
+      "r": [
+        0.0,
+        90.24442528224259,
+        -0.0
+      ],
+      "s": [
+        0.9999999799640729,
+        0.9999999799640729,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bed_B",
+    "source": {
+      "actor": "SM_Mattress01_1HISMA_759",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_1.SM_Mattress01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        1318.392822265625,
+        203.81320190429688,
+        60.39739990234375
+      ],
+      "r": [
+        0.0,
+        91.90433669360257,
+        -0.0
+      ],
+      "s": [
+        0.9999999997842163,
+        0.9999999997842163,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bed_B",
+    "source": {
+      "actor": "SM_WoodenTub01HISMA_794",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_WoodenTub01.SM_WoodenTub01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_WoodenTub01.MI_WoodenTub01"
+    ],
+    "t": {
+      "p": [
+        1354.806396484375,
+        191.03973388671875,
+        2.62744140625
+      ],
+      "r": [
+        0.0,
+        128.88174297559186,
+        -0.0
+      ],
+      "s": [
+        1.000000013997985,
+        1.000000013997985,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bed_C",
+    "source": {
+      "actor": "SM_Bed01_5HISMA_717",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_5.SM_Bed01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        1548.0,
+        202.0,
+        2.162109375
+      ],
+      "r": [
+        0.0,
+        97.24337858953909,
+        -0.0
+      ],
+      "s": [
+        1.0000000068744228,
+        1.0000000068744228,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bed_C",
+    "source": {
+      "actor": "SM_Mattress01_2HISMA_757",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_2.SM_Mattress01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        1558.8701171875,
+        111.49995422363281,
+        59.83355712890625
+      ],
+      "r": [
+        0.0,
+        94.8590954525015,
+        -0.0
+      ],
+      "s": [
+        0.9999999956750703,
+        0.9999999956750703,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Bloodbags",
+    "source": {
+      "actor": "SM_Desk01_6HISMA_739",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 4
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Furniture/SM_Desk01_6.SM_Desk01_6",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Furniture/MI_Desk01_2.MI_Desk01_2"
+    ],
+    "t": {
+      "p": [
+        1210.0,
+        105.0,
+        1.9993896484375
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Bloodbags",
+    "source": {
+      "actor": "SM_DropperBloodBag01_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_DropperBloodBag01_2.SM_DropperBloodBag01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_DropperBloodBag01.MI_DropperBloodBag01"
+    ],
+    "t": {
+      "p": [
+        1179.49169921875,
+        129.91757202148438,
+        94.1131591796875
+      ],
+      "r": [
+        0.0,
+        159.30405933175717,
+        -0.0
+      ],
+      "s": [
+        1.0000000205129724,
+        1.0000000205129724,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Bloodbags",
+    "source": {
+      "actor": "SM_DropperBloodBag01_3HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_DropperBloodBag01_3.SM_DropperBloodBag01_3",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_DropperBloodBag01.MI_DropperBloodBag01"
+    ],
+    "t": {
+      "p": [
+        1179.10595703125,
+        113.02662658691406,
+        94.1131591796875
+      ],
+      "r": [
+        -0.0,
+        26.407281764273357,
+        -0.0
+      ],
+      "s": [
+        0.9999999673595225,
+        0.9999999673595225,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Bloodbags",
+    "source": {
+      "actor": "SM_Folder01_1HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_Folder01_1.SM_Folder01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        1203.4169921875,
+        98.10772705078125,
+        94.1131591796875
+      ],
+      "r": [
+        -0.0,
+        71.17636042944504,
+        -0.0
+      ],
+      "s": [
+        0.999999999296199,
+        0.999999999296199,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Bloodbags",
+    "source": {
+      "actor": "SM_FolderPaper01_2HISMA_776",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_2.SM_FolderPaper01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        1231.5849609375,
+        112.67926025390625,
+        94.1131591796875
+      ],
+      "r": [
+        0.0,
+        -78.80484020646406,
+        -0.0
+      ],
+      "s": [
+        0.999999893253889,
+        0.999999893253889,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Medicines",
+    "source": {
+      "actor": "SM_Desk01_6HISMA_739",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 3
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Furniture/SM_Desk01_6.SM_Desk01_6",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Furniture/MI_Desk01_2.MI_Desk01_2"
+    ],
+    "t": {
+      "p": [
+        1428.0,
+        105.0,
+        1.9993896484375
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Medicines",
+    "source": {
+      "actor": "SM_MedicalInstrument01_5HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_MedicalInstrument01_5.SM_MedicalInstrument01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_MedicalInstrument01.MI_MedicalInstrument01"
+    ],
+    "t": {
+      "p": [
+        1433.860595703125,
+        112.44912719726562,
+        94.1131591796875
+      ],
+      "r": [
+        0.0,
+        144.54936137893847,
+        -0.0
+      ],
+      "s": [
+        0.9999999821344828,
+        0.9999999821344828,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Medicines",
+    "source": {
+      "actor": "SM_Medications01_4HISMA_773",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_4.SM_Medications01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Medications01.MI_Medications01"
+    ],
+    "t": {
+      "p": [
+        1396.74951171875,
+        85.39341735839844,
+        94.1131591796875
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Medicines",
+    "source": {
+      "actor": "SM_Medications01_4HISMA_773",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_4.SM_Medications01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Medications01.MI_Medications01"
+    ],
+    "t": {
+      "p": [
+        1414.41015625,
+        82.82624816894531,
+        94.1131591796875
+      ],
+      "r": [
+        0.0,
+        171.85464456634736,
+        -0.0
+      ],
+      "s": [
+        0.9999999846038249,
+        0.9999999846038249,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Medicines",
+    "source": {
+      "actor": "SM_Medications01_4HISMA_773",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_4.SM_Medications01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Medications01.MI_Medications01"
+    ],
+    "t": {
+      "p": [
+        1413.577392578125,
+        96.1268310546875,
+        94.1131591796875
+      ],
+      "r": [
+        -0.0,
+        1.7399233006858168,
+        -0.0
+      ],
+      "s": [
+        1.000000071472198,
+        1.000000071472198,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Medicines",
+    "source": {
+      "actor": "SM_Medications01_4HISMA_773",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 3
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_4.SM_Medications01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Medications01.MI_Medications01"
+    ],
+    "t": {
+      "p": [
+        1403.434814453125,
+        111.76325988769531,
+        94.1131591796875
+      ],
+      "r": [
+        0.0,
+        253.5393769042275,
+        -0.0
+      ],
+      "s": [
+        0.9999999523535965,
+        0.9999999523535965,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Food",
+    "source": {
+      "actor": "SM_Desk01_6HISMA_739",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Furniture/SM_Desk01_6.SM_Desk01_6",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Furniture/MI_Desk01_2.MI_Desk01_2"
+    ],
+    "t": {
+      "p": [
+        1428.0,
+        274.0,
+        1.99951171875
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Food",
+    "source": {
+      "actor": "SM_Bowl01HISMA_727",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bowl01.SM_Bowl01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bowl01.MI_Bowl01"
+    ],
+    "t": {
+      "p": [
+        1404.9677734375,
+        276.0221252441406,
+        94.11328125
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Food",
+    "source": {
+      "actor": "SM_Kitchenware04_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Kitchen/SM_Kitchenware04_2.SM_Kitchenware04_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Kitchen/MI_Kitchenware04.MI_Kitchenware04"
+    ],
+    "t": {
+      "p": [
+        1427.1513671875,
+        256.6236267089844,
+        94.11328125
+      ],
+      "r": [
+        -0.0,
+        79.87774664080014,
+        -0.0
+      ],
+      "s": [
+        1.0000000280461254,
+        1.0000000280461254,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Food",
+    "source": {
+      "actor": "SM_Kitchenware04_1HISMA_750",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Kitchen/SM_Kitchenware04_1.SM_Kitchenware04_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Kitchen/MI_Kitchenware04.MI_Kitchenware04"
+    ],
+    "t": {
+      "p": [
+        1437.9375,
+        263.0472717285156,
+        94.11328125
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Bedside_Food",
+    "source": {
+      "actor": "SM_Potato01_4HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Potato01_4.SM_Potato01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Potato01.MI_Potato01"
+    ],
+    "t": {
+      "p": [
+        1406.416748046875,
+        273.5914611816406,
+        95.52423095703125
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Drip_A",
+    "source": {
+      "actor": "SM_TripodDropper01HISMA_780",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_TripodDropper01.SM_TripodDropper01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_TripodDropper01.MI_TripodDropper01"
+    ],
+    "t": {
+      "p": [
+        1210.0,
+        260.0,
+        2.6575927734375
+      ],
+      "r": [
+        0.0,
+        127.88474332493034,
+        -0.0
+      ],
+      "s": [
+        1.0000000048479052,
+        1.0000000048479052,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Drip_A",
+    "source": {
+      "actor": "SM_DropperBloodBag01_1HISMA_741",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_DropperBloodBag01_1.SM_DropperBloodBag01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_DropperBloodBag01.MI_DropperBloodBag01"
+    ],
+    "t": {
+      "p": [
+        1229.835205078125,
+        275.6215133666992,
+        171.296142578125
+      ],
+      "r": [
+        0.0,
+        117.06339564190789,
+        -0.0
+      ],
+      "s": [
+        0.9999999883555403,
+        0.9999999883555403,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Drip_A",
+    "source": {
+      "actor": "SM_DropperBloodBag01_1HISMA_741",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_DropperBloodBag01_1.SM_DropperBloodBag01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_DropperBloodBag01.MI_DropperBloodBag01"
+    ],
+    "t": {
+      "p": [
+        1190.31640625,
+        244.83100128173828,
+        171.296142578125
+      ],
+      "r": [
+        0.0,
+        -44.78949093003402,
+        -0.0
+      ],
+      "s": [
+        0.9999997780649876,
+        0.9999997780649876,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Drip_C",
+    "source": {
+      "actor": "SM_TripodDropper01HISMA_780",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_TripodDropper01.SM_TripodDropper01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_TripodDropper01.MI_TripodDropper01"
+    ],
+    "t": {
+      "p": [
+        1428.0,
+        188.0,
+        2.6575927734375
+      ],
+      "r": [
+        -0.0,
+        17.28048430156072,
+        -0.0
+      ],
+      "s": [
+        0.9999999629352054,
+        0.9999999629352054,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Bed_A",
+    "source": {
+      "actor": "SM_Bed01_3HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_3.SM_Bed01_3",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        220.0,
+        -573.0,
+        2.1602783203125
+      ],
+      "r": [
+        0.0,
+        0.02573500186638033,
+        -0.0
+      ],
+      "s": [
+        0.9999999816632913,
+        0.9999999816632913,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Bed_A",
+    "source": {
+      "actor": "SM_Basin01HISMA_633",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Basin01.SM_Basin01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Basin01.MI_Basin01"
+    ],
+    "t": {
+      "p": [
+        213.62353515625,
+        -548.017822265625,
+        3.67535400390625
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Bed_A",
+    "source": {
+      "actor": "SM_Mattress01_1HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_1.SM_Mattress01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        220.823974609375,
+        -574.595458984375,
+        59.7713623046875
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Bed_B",
+    "source": {
+      "actor": "SM_Bed01_5HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_5.SM_Bed01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        723.0,
+        -573.0,
+        2.1602783203125
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        0.9999999946042641,
+        0.9999999946042641,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Bed_B",
+    "source": {
+      "actor": "SM_Mattress01_3HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_3.SM_Mattress01_3",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        718.2287139049236,
+        -566.9592292354855,
+        59.14794921875
+      ],
+      "r": [
+        0.0,
+        0.8471752008578726,
+        -0.0
+      ],
+      "s": [
+        0.9999999938801976,
+        0.9999999938801976,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_Desk01_5HISMA_656",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Furniture/SM_Desk01_5.SM_Desk01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Furniture/MI_Desk01_2.MI_Desk01_2"
+    ],
+    "t": {
+      "p": [
+        464.0,
+        -564.0,
+        2.7965087890625
+      ],
+      "r": [
+        -0.0,
+        0.0029033601375232365,
+        -0.0
+      ],
+      "s": [
+        0.9999999268117241,
+        0.9999999268117241,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_Ashtray01HISMA_631",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Ashtray01.SM_Ashtray01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Ashtray01.MI_Ashtray01"
+    ],
+    "t": {
+      "p": [
+        482.4945421149731,
+        -545.7443707068953,
+        94.9102783203125
+      ],
+      "r": [
+        -0.0,
+        55.815607535400815,
+        -0.0
+      ],
+      "s": [
+        1.0000000241829115,
+        1.0000000241829115,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_Book01_1HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_1.SM_Book01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Book01.MI_Book01"
+    ],
+    "t": {
+      "p": [
+        530.9521796888869,
+        -594.651152352654,
+        94.91021728515625
+      ],
+      "r": [
+        0.0,
+        -37.339575370440656,
+        -0.0
+      ],
+      "s": [
+        1.0000000069232957,
+        1.0000000069232957,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_Lamp02_6HISMA_663",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp02_6.SM_Lamp02_6",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp02_3.MI_Lamp02_3"
+    ],
+    "t": {
+      "p": [
+        543.7312306046845,
+        -539.6613271672508,
+        94.9102783203125
+      ],
+      "r": [
+        -0.0,
+        65.4839738255856,
+        -0.0
+      ],
+      "s": [
+        0.9999999954650414,
+        0.9999999954650414,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_Pen01_1HISMA_677",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Pen01_1.SM_Pen01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Pen01.MI_Pen01"
+    ],
+    "t": {
+      "p": [
+        469.4077569746145,
+        -576.089611637203,
+        95.0953369140625
+      ],
+      "r": [
+        -0.0,
+        57.762322468241756,
+        -0.0
+      ],
+      "s": [
+        0.9999999647816502,
+        0.9999999647816502,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_FolderPaper01_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_2.SM_FolderPaper01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        464.21950301630545,
+        -575.1037875510677,
+        94.91021728515625
+      ],
+      "r": [
+        0.0,
+        94.1,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Records",
+    "source": {
+      "actor": "SM_FolderPaper01_5HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_5.SM_FolderPaper01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        412.3121527662537,
+        -558.3603150209586,
+        94.91021728515625
+      ],
+      "r": [
+        0.0,
+        94.1,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_West_Bed_A",
+    "source": {
+      "actor": "SM_Bed01_4HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_4.SM_Bed01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        67.0,
+        -224.0,
+        2.162109375
+      ],
+      "r": [
+        0.0,
+        -89.97427750484613,
+        -0.0
+      ],
+      "s": [
+        0.9999998623559693,
+        0.9999998623559693,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_West_Bed_A",
+    "source": {
+      "actor": "SM_Mattress01_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_2.SM_Mattress01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        68.97412109375,
+        -312.7969970703125,
+        64.0166015625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_West_Bed_B",
+    "source": {
+      "actor": "SM_Bed01_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_2.SM_Bed01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        67.0,
+        109.0,
+        2.1614990234375
+      ],
+      "r": [
+        0.0,
+        262.5019461518657,
+        -0.0
+      ],
+      "s": [
+        0.9999999420206153,
+        0.9999999420206153,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_West_Bed_C",
+    "source": {
+      "actor": "SM_Bed01_3HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Bed01_3.SM_Bed01_3",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Bed01.MI_Bed01"
+    ],
+    "t": {
+      "p": [
+        67.0,
+        420.0,
+        2.162109375
+      ],
+      "r": [
+        -0.0,
+        -88.9459843533098,
+        -0.0
+      ],
+      "s": [
+        1.000000044460287,
+        1.000000044460287,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_West_Bed_C",
+    "source": {
+      "actor": "SM_Mattress01_1HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_1.SM_Mattress01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        72.84417724609375,
+        416.298583984375,
+        59.3553466796875
+      ],
+      "r": [
+        0.0,
+        93.41818727308168,
+        -0.0
+      ],
+      "s": [
+        1.0000000280821566,
+        1.0000000280821566,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_West_Bed_C",
+    "source": {
+      "actor": "SM_Mattress01_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Mattress01_2.SM_Mattress01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Mattress01.MI_Mattress01"
+    ],
+    "t": {
+      "p": [
+        69.34100341796875,
+        507.1220703125,
+        65.8455810546875
+      ],
+      "r": [
+        0.0,
+        87.6284719462327,
+        -0.0
+      ],
+      "s": [
+        0.9999999652484005,
+        0.9999999652484005,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_Wheelchair",
+    "source": {
+      "actor": "SM_WheelChair01HISMA_705",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_WheelChair01.SM_WheelChair01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_WheelChair01.MI_WheelChair01"
+    ],
+    "t": {
+      "p": [
+        914.0,
+        -563.0,
+        3.84869384765625
+      ],
+      "r": [
+        -0.0,
+        90.04926201572405,
+        -0.0
+      ],
+      "s": [
+        1.0000000147065862,
+        1.0000000147065862,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Drip",
+    "source": {
+      "actor": "SM_TripodDropper01HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_TripodDropper01.SM_TripodDropper01",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_TripodDropper01.MI_TripodDropper01"
+    ],
+    "t": {
+      "p": [
+        25.0,
+        -568.0,
+        3.0888671875
+      ],
+      "r": [
+        0.0,
+        -165.87059213391754,
+        -0.0
+      ],
+      "s": [
+        0.9999998558000204,
+        0.9999998558000204,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_North_Drip",
+    "source": {
+      "actor": "SM_DropperBloodBag01_1HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_DropperBloodBag01_1.SM_DropperBloodBag01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_DropperBloodBag01.MI_DropperBloodBag01"
+    ],
+    "t": {
+      "p": [
+        31.010498046875,
+        -591.877197265625,
+        171.4356689453125
+      ],
+      "r": [
+        0.0,
+        -165.87059213391754,
+        -0.0
+      ],
+      "s": [
+        0.9999998558000204,
+        0.9999998558000204,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Lamp_1",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_752",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_1.MI_Lamp03_1"
+    ],
+    "t": {
+      "p": [
+        1093.0,
+        204.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Lamp_2",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_752",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_1.MI_Lamp03_1"
+    ],
+    "t": {
+      "p": [
+        1318.0,
+        204.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Lamp_3",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_752",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_1.MI_Lamp03_1"
+    ],
+    "t": {
+      "p": [
+        1548.0,
+        204.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_Lamp_1",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_665",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_1.MI_Lamp03_1"
+    ],
+    "t": {
+      "p": [
+        220.0,
+        -555.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_Lamp_2",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_665",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_1.MI_Lamp03_1"
+    ],
+    "t": {
+      "p": [
+        723.0,
+        -555.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_Lamp_3",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_665",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 2
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_1.MI_Lamp03_1"
+    ],
+    "t": {
+      "p": [
+        67.0,
+        -224.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_Lamp_4",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_667",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_2.MI_Lamp03_2"
+    ],
+    "t": {
+      "p": [
+        67.0,
+        109.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 9,
+    "group": "R09_Lamp_5",
+    "source": {
+      "actor": "SM_Lamp03_1HISMA_667",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Lamp03_1.SM_Lamp03_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Lamp03_2.MI_Lamp03_2"
+    ],
+    "t": {
+      "p": [
+        67.0,
+        420.0,
+        395.172119140625
+      ],
+      "r": [
+        0.0,
+        90.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Debris_01",
+    "source": {
+      "actor": "SM_Debris01HISMA_737",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 17
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        1078.6199041635637,
+        126.32812521624915,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        91.6357999855306,
+        -0.0
+      ],
+      "s": [
+        0.999999890087824,
+        0.999999890087824,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Debris_02",
+    "source": {
+      "actor": "SM_Debris01HISMA_737",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 18
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        1244.3386208400304,
+        114.50601577677888,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        2.9019775512395825,
+        -0.0
+      ],
+      "s": [
+        0.9999999956772605,
+        0.9999999956772605,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Debris_03",
+    "source": {
+      "actor": "SM_Debris01HISMA_737",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 9
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        1419.650433361382,
+        115.2667684260873,
+        4.4212646484375
+      ],
+      "r": [
+        -0.0,
+        -3.7463682615603413,
+        -0.0
+      ],
+      "s": [
+        0.9999999873857197,
+        0.9999999873857197,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Debris_04",
+    "source": {
+      "actor": "SM_Debris01HISMA_737",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 4
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        1074.7583661604804,
+        296.42352730723866,
+        4.4212646484375
+      ],
+      "r": [
+        -0.0,
+        -84.61953009025743,
+        -0.0
+      ],
+      "s": [
+        0.9999999800186374,
+        0.9999999800186374,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Debris_05",
+    "source": {
+      "actor": "SM_Debris01HISMA_737",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 34
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        1257.7072612483912,
+        290.5166852847257,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        6.087616525840911,
+        -0.0
+      ],
+      "s": [
+        0.9999999760111632,
+        0.9999999760111632,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Debris_06",
+    "source": {
+      "actor": "SM_Debris01HISMA_737",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 28
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        1434.5505307221367,
+        300.29842443818677,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        -172.65625804564127,
+        -0.0
+      ],
+      "s": [
+        1.0000001822963402,
+        1.0000001822963402,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_01",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 41
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        55.74933628143309,
+        -550.3786255275414,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        -179.92175335888635,
+        -0.0
+      ],
+      "s": [
+        1.0000002172600087,
+        1.0000002172600087,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_02",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 19
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        227.81893084576137,
+        -545.8594069665505,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        -176.3323465207604,
+        -0.0
+      ],
+      "s": [
+        0.9999996156120233,
+        0.9999996156120233,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_03",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 38
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        406.6295578103737,
+        -540.3238253896989,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        94.328582044128,
+        -0.0
+      ],
+      "s": [
+        1.0000000732832222,
+        1.0000000732832222,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_04",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 42
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        564.7019590145132,
+        -545.1505268164764,
+        4.4212646484375
+      ],
+      "r": [
+        -0.0,
+        -94.91094736407099,
+        -0.0
+      ],
+      "s": [
+        0.9999999923061083,
+        0.9999999923061083,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_05",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 22
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        741.6121197647849,
+        -539.4550336557302,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        95.05308062982864,
+        -0.0
+      ],
+      "s": [
+        1.0000000718843784,
+        1.0000000718843784,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_06",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 39
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        67.0602104621252,
+        -348.79644869602004,
+        4.4212646484375
+      ],
+      "r": [
+        -0.0,
+        -5.3512572124018645,
+        -0.0
+      ],
+      "s": [
+        0.9999999843418749,
+        0.9999999843418749,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_07",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 12
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        55.22421923285252,
+        -170.72866865622908,
+        4.4212646484375
+      ],
+      "r": [
+        -0.0,
+        -96.21669379546965,
+        -0.0
+      ],
+      "s": [
+        0.9999999505665175,
+        0.9999999505665175,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_08",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 32
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        64.23528057499135,
+        13.86523473618206,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        173.06106009205917,
+        -0.0
+      ],
+      "s": [
+        0.9999995989472885,
+        0.9999995989472885,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_09",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 18
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        66.06362738471815,
+        189.90902642096208,
+        4.4212646484375
+      ],
+      "r": [
+        0.0,
+        82.72860506728591,
+        -0.0
+      ],
+      "s": [
+        1.00000002760062,
+        1.00000002760062,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Debris_10",
+    "source": {
+      "actor": "SM_Debris01HISMA_654",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 34
+    },
+    "mesh": "/Game/Asylum/Meshes/Decals/SM_Debris01.SM_Debris01",
+    "mats": [
+      "/Game/Asylum/Materials/Decals/MI_Debris01.MI_Debris01"
+    ],
+    "t": {
+      "p": [
+        57.48641039608137,
+        369.27383006400294,
+        4.4212646484375
+      ],
+      "r": [
+        -0.0,
+        -82.45470921993072,
+        -0.0
+      ],
+      "s": [
+        1.0000000382132381,
+        1.0000000382132381,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Envelope_A",
+    "source": {
+      "actor": "SM_Envelope01_4HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_Envelope01_4.SM_Envelope01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Envelope01.MI_Envelope01"
+    ],
+    "t": {
+      "p": [
+        1080.0,
+        366.0,
+        0.03010776042938232
+      ],
+      "r": [
+        0.0,
+        16.22978946506768,
+        -0.0
+      ],
+      "s": [
+        1.0000000121527766,
+        1.0000000121527766,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Envelope_B",
+    "source": {
+      "actor": "SM_Envelope01_2HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_Envelope01_2.SM_Envelope01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Envelope01.MI_Envelope01"
+    ],
+    "t": {
+      "p": [
+        1350.0,
+        388.0,
+        0.3823728203773499
+      ],
+      "r": [
+        0.0,
+        18.677203423172195,
+        -0.0
+      ],
+      "s": [
+        0.9999999787447249,
+        0.9999999787447249,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Medication_A",
+    "source": {
+      "actor": "SM_Medications01_2HISMA_767",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_2.SM_Medications01_2",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Medications01.MI_Medications01"
+    ],
+    "t": {
+      "p": [
+        1245.0,
+        368.0,
+        0.14738025665283203
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 8,
+    "group": "R08_Floor_Medication_B",
+    "source": {
+      "actor": "SM_Medications01_1HISMA_769",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 3
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Medications01_1.SM_Medications01_1",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Medications01.MI_Medications01"
+    ],
+    "t": {
+      "p": [
+        1527.0,
+        371.0,
+        0.147100830078125
+      ],
+      "r": [
+        -0.0,
+        -71.03964818488237,
+        -0.0
+      ],
+      "s": [
+        1.0000000427683853,
+        1.0000000427683853,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Records_A",
+    "source": {
+      "actor": "SM_FolderPaper01_5HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 1
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_5.SM_FolderPaper01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        170.0,
+        -383.0,
+        0.32252117395401003
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Records_B",
+    "source": {
+      "actor": "SM_FolderPaper01_4HISMA_683",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_4.SM_FolderPaper01_4",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        162.0,
+        36.0,
+        0.11537405252456664
+      ],
+      "r": [
+        0.0,
+        60.548521968114564,
+        -0.0
+      ],
+      "s": [
+        0.9999999542019119,
+        0.9999999542019119,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Records_C",
+    "source": {
+      "actor": "SM_FolderPaper01_3HISMA_685",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_3.SM_FolderPaper01_3",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        166.0,
+        273.0,
+        0.15931316614151
+      ],
+      "r": [
+        0.0,
+        106.19286816592651,
+        -0.0
+      ],
+      "s": [
+        0.9999998704394746,
+        0.9999998704394746,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Records_D",
+    "source": {
+      "actor": "SM_FolderPaper01_6HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/Documents/SM_FolderPaper01_6.SM_FolderPaper01_6",
+    "mats": [
+      "/Game/Asylum/Materials/Props/Documents/MI_Folder01.MI_Folder01"
+    ],
+    "t": {
+      "p": [
+        174.0,
+        510.0,
+        0.38340225219726565
+      ],
+      "r": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "s": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Dropped_Book",
+    "source": {
+      "actor": "SM_Book01_5HISMA",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Book01_5.SM_Book01_5",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Book01.MI_Book01"
+    ],
+    "t": {
+      "p": [
+        544.0,
+        -477.0,
+        0.15095510482788085
+      ],
+      "r": [
+        -0.0,
+        -112.13241234287946,
+        -0.0
+      ],
+      "s": [
+        0.9999999502341131,
+        0.9999999502341131,
+        1.0
+      ]
+    },
+    "collision": false
+  },
+  {
+    "room": 9,
+    "group": "R09_Floor_Discarded_Cloth",
+    "source": {
+      "actor": "SM_Cloth01_6HISMA_650",
+      "component": "HierarchicalInstancedStaticMesh",
+      "component_index": 0,
+      "instance": 0
+    },
+    "mesh": "/Game/Asylum/Meshes/Props/SM_Cloth01_6.SM_Cloth01_6",
+    "mats": [
+      "/Game/Asylum/Materials/Props/MI_Cloth01.MI_Cloth01"
+    ],
+    "t": {
+      "p": [
+        105.0,
+        -57.0,
+        0.15318242718776673
+      ],
+      "r": [
+        0.0,
+        23.670602049470393,
+        -0.0
+      ],
+      "s": [
+        0.526438932572384,
+        0.526438932572384,
+        0.5390980243682861
+      ]
+    },
+    "collision": false
+  }
+]

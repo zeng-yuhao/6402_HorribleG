@@ -1,0 +1,918 @@
+{
+  "backup": "/Users/panjiang/Documents/Unreal Projects/Art_Tech_UE5_6/Saved/Backups/ThirdFloorTransfer/20260920_150227",
+  "walls": [
+    [
+      -1841.0,
+      -657.0,
+      997.0,
+      -631.0,
+      0,
+      220
+    ],
+    [
+      -1841.0,
+      -631.0,
+      -1815.0,
+      -13.0,
+      0,
+      220
+    ],
+    [
+      -1815.0,
+      -217.0,
+      -1678.0,
+      -191.0,
+      0,
+      220
+    ],
+    [
+      -1815.0,
+      -39.0,
+      -1705.0,
+      -13.0,
+      0,
+      220
+    ],
+    [
+      -1731.0,
+      -13.0,
+      -1705.0,
+      605.0,
+      0,
+      220
+    ],
+    [
+      -1705.0,
+      579.0,
+      761.0,
+      605.0,
+      0,
+      220
+    ],
+    [
+      -1553.0,
+      -39.0,
+      -865.0,
+      -13.0,
+      0,
+      220
+    ],
+    [
+      -1553.0,
+      -13.0,
+      -1527.0,
+      427.0,
+      0,
+      220
+    ],
+    [
+      -1538.0,
+      -217.0,
+      -865.0,
+      -191.0,
+      0,
+      220
+    ],
+    [
+      -1527.0,
+      401.0,
+      -1412.0,
+      427.0,
+      0,
+      220
+    ],
+    [
+      -1272.0,
+      401.0,
+      -865.0,
+      427.0,
+      0,
+      220
+    ],
+    [
+      -891.0,
+      -631.0,
+      -865.0,
+      -217.0,
+      0,
+      220
+    ],
+    [
+      -891.0,
+      -13.0,
+      -865.0,
+      401.0,
+      0,
+      220
+    ],
+    [
+      -711.0,
+      139.0,
+      -23.0,
+      165.0,
+      0,
+      220
+    ],
+    [
+      -711.0,
+      165.0,
+      -685.0,
+      258.0,
+      0,
+      220
+    ],
+    [
+      -711.0,
+      398.0,
+      -685.0,
+      579.0,
+      0,
+      220
+    ],
+    [
+      -49.0,
+      165.0,
+      -23.0,
+      579.0,
+      0,
+      220
+    ],
+    [
+      231.0,
+      -427.0,
+      664.0,
+      -401.0,
+      0,
+      220
+    ],
+    [
+      231.0,
+      -401.0,
+      257.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      257.0,
+      13.0,
+      488.0,
+      39.0,
+      0,
+      220
+    ],
+    [
+      257.0,
+      451.0,
+      919.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      628.0,
+      13.0,
+      919.0,
+      39.0,
+      0,
+      220
+    ],
+    [
+      735.0,
+      605.0,
+      761.0,
+      655.0,
+      0,
+      220
+    ],
+    [
+      761.0,
+      629.0,
+      1839.0,
+      655.0,
+      0,
+      220
+    ],
+    [
+      804.0,
+      -427.0,
+      919.0,
+      -401.0,
+      0,
+      220
+    ],
+    [
+      893.0,
+      -401.0,
+      919.0,
+      13.0,
+      0,
+      220
+    ],
+    [
+      893.0,
+      39.0,
+      919.0,
+      451.0,
+      0,
+      220
+    ],
+    [
+      971.0,
+      -631.0,
+      997.0,
+      -141.0,
+      0,
+      220
+    ],
+    [
+      971.0,
+      13.0,
+      1661.0,
+      39.0,
+      0,
+      220
+    ],
+    [
+      971.0,
+      39.0,
+      997.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      997.0,
+      -605.0,
+      1839.0,
+      -579.0,
+      0,
+      220
+    ],
+    [
+      997.0,
+      -167.0,
+      1106.0,
+      -141.0,
+      0,
+      220
+    ],
+    [
+      997.0,
+      451.0,
+      1376.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      1246.0,
+      -167.0,
+      1661.0,
+      -141.0,
+      0,
+      220
+    ],
+    [
+      1516.0,
+      451.0,
+      1661.0,
+      477.0,
+      0,
+      220
+    ],
+    [
+      1635.0,
+      -579.0,
+      1661.0,
+      -167.0,
+      0,
+      220
+    ],
+    [
+      1635.0,
+      39.0,
+      1661.0,
+      451.0,
+      0,
+      220
+    ],
+    [
+      1813.0,
+      -579.0,
+      1839.0,
+      629.0,
+      0,
+      220
+    ],
+    [
+      -1841.0,
+      -657.0,
+      997.0,
+      -631.0,
+      220,
+      400
+    ],
+    [
+      -1841.0,
+      -631.0,
+      -1815.0,
+      -13.0,
+      220,
+      400
+    ],
+    [
+      -1815.0,
+      -217.0,
+      -865.0,
+      -191.0,
+      220,
+      400
+    ],
+    [
+      -1815.0,
+      -39.0,
+      -1705.0,
+      -13.0,
+      220,
+      400
+    ],
+    [
+      -1731.0,
+      -13.0,
+      -1705.0,
+      605.0,
+      220,
+      400
+    ],
+    [
+      -1705.0,
+      579.0,
+      761.0,
+      605.0,
+      220,
+      400
+    ],
+    [
+      -1553.0,
+      -39.0,
+      -865.0,
+      -13.0,
+      220,
+      400
+    ],
+    [
+      -1553.0,
+      -13.0,
+      -1527.0,
+      427.0,
+      220,
+      400
+    ],
+    [
+      -1527.0,
+      401.0,
+      -865.0,
+      427.0,
+      220,
+      400
+    ],
+    [
+      -891.0,
+      -631.0,
+      -865.0,
+      -217.0,
+      220,
+      400
+    ],
+    [
+      -891.0,
+      -13.0,
+      -865.0,
+      401.0,
+      220,
+      400
+    ],
+    [
+      -711.0,
+      139.0,
+      -23.0,
+      165.0,
+      220,
+      400
+    ],
+    [
+      -711.0,
+      165.0,
+      -685.0,
+      579.0,
+      220,
+      400
+    ],
+    [
+      -49.0,
+      165.0,
+      -23.0,
+      579.0,
+      220,
+      400
+    ],
+    [
+      231.0,
+      -427.0,
+      919.0,
+      -401.0,
+      220,
+      400
+    ],
+    [
+      231.0,
+      -401.0,
+      257.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      257.0,
+      13.0,
+      919.0,
+      39.0,
+      220,
+      400
+    ],
+    [
+      257.0,
+      451.0,
+      919.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      735.0,
+      605.0,
+      761.0,
+      655.0,
+      220,
+      400
+    ],
+    [
+      761.0,
+      629.0,
+      1839.0,
+      655.0,
+      220,
+      400
+    ],
+    [
+      893.0,
+      -401.0,
+      919.0,
+      13.0,
+      220,
+      400
+    ],
+    [
+      893.0,
+      39.0,
+      919.0,
+      451.0,
+      220,
+      400
+    ],
+    [
+      971.0,
+      -631.0,
+      997.0,
+      -141.0,
+      220,
+      400
+    ],
+    [
+      971.0,
+      13.0,
+      1661.0,
+      39.0,
+      220,
+      400
+    ],
+    [
+      971.0,
+      39.0,
+      997.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      997.0,
+      -605.0,
+      1839.0,
+      -579.0,
+      220,
+      400
+    ],
+    [
+      997.0,
+      -167.0,
+      1661.0,
+      -141.0,
+      220,
+      400
+    ],
+    [
+      997.0,
+      451.0,
+      1661.0,
+      477.0,
+      220,
+      400
+    ],
+    [
+      1635.0,
+      -579.0,
+      1661.0,
+      -167.0,
+      220,
+      400
+    ],
+    [
+      1635.0,
+      39.0,
+      1661.0,
+      451.0,
+      220,
+      400
+    ],
+    [
+      1813.0,
+      -579.0,
+      1839.0,
+      629.0,
+      220,
+      400
+    ]
+  ],
+  "floor": [
+    {
+      "room": 0,
+      "rect": [
+        -1841,
+        -657,
+        997,
+        -631
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1841,
+        -631,
+        -1815,
+        -13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1815,
+        -217,
+        -698,
+        -13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1731,
+        -13,
+        -1527,
+        605
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -1527,
+        401,
+        -685,
+        605
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        -631,
+        -698,
+        -217
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        -13,
+        -36,
+        165
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -891,
+        165,
+        -685,
+        401
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -698,
+        -26,
+        -36,
+        -13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -685,
+        579,
+        1839,
+        605
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        -49,
+        165,
+        -36,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        735,
+        605,
+        1839,
+        655
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        997,
+        -605,
+        1839,
+        -579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        997,
+        -167,
+        1839,
+        39
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        997,
+        451,
+        1839,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1635,
+        -579,
+        1839,
+        -167
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 0,
+      "rect": [
+        1635,
+        39,
+        1839,
+        451
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 1,
+      "rect": [
+        -1815,
+        -631,
+        -891,
+        -217
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 5,
+      "rect": [
+        -1527,
+        -13,
+        -891,
+        401
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_FloorConcrete01_World.MI_FloorConcrete01_World"
+    },
+    {
+      "room": 2,
+      "rect": [
+        -698,
+        -631,
+        -36,
+        -26
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 6,
+      "rect": [
+        -685,
+        165,
+        -49,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor03_5_World.MI_Floor03_5_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        -36,
+        -631,
+        997,
+        -401
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        -36,
+        -401,
+        257,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        257,
+        13,
+        997,
+        39
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        257,
+        451,
+        997,
+        579
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        893,
+        -401,
+        997,
+        13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 9,
+      "rect": [
+        893,
+        39,
+        997,
+        451
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    },
+    {
+      "room": 3,
+      "rect": [
+        257,
+        -401,
+        893,
+        13
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor03_4_World.MI_Floor03_4_World"
+    },
+    {
+      "room": 7,
+      "rect": [
+        257,
+        39,
+        893,
+        451
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor03_4_World.MI_Floor03_4_World"
+    },
+    {
+      "room": 4,
+      "rect": [
+        997,
+        -579,
+        1635,
+        -167
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor02_1_World.MI_Floor02_1_World"
+    },
+    {
+      "room": 8,
+      "rect": [
+        997,
+        39,
+        1635,
+        451
+      ],
+      "z": 0,
+      "material": "/Game/HorrorWhitebox/ThirdFloor/Materials/MI_Floor01_1_World.MI_Floor01_1_World"
+    }
+  ],
+  "source_mapping": {
+    "1": "Room01",
+    "2": "Room04",
+    "3": "Room05 upper",
+    "4": "Room07",
+    "5": "Room02",
+    "6": "Room06",
+    "7": "Room05 lower",
+    "8": "Room08",
+    "9": "Room09"
+  },
+  "layout_changes": [
+    "Remove Room 2 enclosure",
+    "Shift central rooms 3 and 7 100 cm east",
+    "Raise shell ceiling to source height 400 cm"
+  ],
+  "saved": true,
+  "created": 619
+}

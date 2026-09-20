@@ -1,0 +1,17 @@
+X.take_high_res_screenshot(res_x, res_y, filename, camera=None, mask_enabled=False, capture_hdr=False, comparison_tolerance=ComparisonTolerance.LOW, comparison_notes="", delay=0.000000, force_game_view=True) -> AutomationEditorTask
+take high res screenshot in editor.
+
+Args:
+    res_x (int32): 
+    res_y (int32): 
+    filename (str): 
+    camera (CameraActor): 
+    mask_enabled (bool): 
+    capture_hdr (bool): 
+    comparison_tolerance (ComparisonTolerance): 
+    comparison_notes (str): 
+    delay (float): 
+    force_game_view (bool): 
+
+Returns:
+    AutomationEditorTask:

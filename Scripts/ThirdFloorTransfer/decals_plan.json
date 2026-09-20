@@ -1,0 +1,490 @@
+{
+  "entries": [
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_BloodDecal01_2"
+      },
+      "t": {
+        "p": [
+          -378.71557505939626,
+          -348.9631832301822,
+          84.96905517578125
+        ],
+        "r": [
+          -90.0,
+          -68.15817304959236,
+          0.0
+        ],
+        "s": [
+          0.016000648960471153,
+          0.40212786197662354,
+          0.40212786197662354
+        ]
+      },
+      "role": "table_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_BloodDecal2"
+      },
+      "t": {
+        "p": [
+          -424.7254638671875,
+          -431.4263916015625,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -44.45263671875003,
+          0.0
+        ],
+        "s": [
+          0.07138670235872269,
+          0.5237165093421936,
+          0.5237165093421936
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_Puddle01_25"
+      },
+      "t": {
+        "p": [
+          -256.5634765625,
+          -416.7940673828125,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          64.10454654693604,
+          0.0
+        ],
+        "s": [
+          0.06543276458978653,
+          0.6326479911804199,
+          0.5189210176467896
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_BloodDecal02_48"
+      },
+      "t": {
+        "p": [
+          -262.8720703125,
+          -408.8892822265625,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -45.00028991699218,
+          0.0
+        ],
+        "s": [
+          0.07351956516504288,
+          0.3097800016403198,
+          0.5566629767417908
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_Puddle01_26"
+      },
+      "t": {
+        "p": [
+          -427.6650390625,
+          -427.7936989087535,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          21.34938049316405,
+          0.0
+        ],
+        "s": [
+          0.06543300300836563,
+          0.6326479911804199,
+          0.5189210176467896
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_BloodDecal02_51"
+      },
+      "t": {
+        "p": [
+          -429.08056640625,
+          -471.27099729028225,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -78.17929744720459,
+          0.0
+        ],
+        "s": [
+          0.0735199972987175,
+          0.3097800016403198,
+          0.5566629767417908
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_BloodDecal3"
+      },
+      "t": {
+        "p": [
+          -225.56720249863935,
+          -379.866455078125,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          56.8468017578125,
+          0.0
+        ],
+        "s": [
+          0.07138700038194656,
+          0.5237169861793518,
+          0.5237169861793518
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 2,
+      "source": {
+        "actor": "MI_BloodDecal4"
+      },
+      "t": {
+        "p": [
+          -531.1528316319964,
+          -349.6278145896607,
+          65.1656494140625
+        ],
+        "r": [
+          -90.0,
+          -27.33052107205328,
+          0.0
+        ],
+        "s": [
+          0.08160777390003204,
+          0.13025805354118347,
+          0.13025805354118347
+        ]
+      },
+      "role": "table_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "MI_BloodDecal5_64"
+      },
+      "t": {
+        "p": [
+          515.4008724972048,
+          -211.9259052512866,
+          83.8695068359375
+        ],
+        "r": [
+          -90.0,
+          -79.82708499910957,
+          0.0
+        ],
+        "s": [
+          0.06997455656528473,
+          0.4895212948322296,
+          0.4895212948322296
+        ]
+      },
+      "role": "table_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "MI_BloodDecal6"
+      },
+      "t": {
+        "p": [
+          568.49052734375,
+          -167.55916735849678,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -139.9701156616211,
+          0.0
+        ],
+        "s": [
+          0.06997500360012054,
+          0.48952099680900574,
+          0.48952099680900574
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "MI_Puddle01_31"
+      },
+      "t": {
+        "p": [
+          590.57880859375,
+          -186.61052189014873,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -119.68071365356445,
+          0.0
+        ],
+        "s": [
+          0.06543300300836563,
+          0.6326479911804199,
+          0.5189210176467896
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "MI_BloodDecal02_54"
+      },
+      "t": {
+        "p": [
+          587.3900146484375,
+          -142.53398436161174,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -219.20973205566403,
+          0.0
+        ],
+        "s": [
+          0.0735199972987175,
+          0.3097800016403198,
+          0.5566629767417908
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "MI_BloodDecal02_81"
+      },
+      "t": {
+        "p": [
+          646.3076337938576,
+          -232.1517236328125,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -111.8717041015625,
+          0.0
+        ],
+        "s": [
+          0.048105388879776,
+          0.9036480784416199,
+          0.2937035858631134
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal02_1.MI_BloodDecal02_1",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 3,
+      "source": {
+        "actor": "MI_BloodDecal8"
+      },
+      "t": {
+        "p": [
+          891,
+          -220,
+          124.16473388671875
+        ],
+        "r": [
+          4.199999966658652e-05,
+          0,
+          100.17297363281249
+        ],
+        "s": [
+          0.02121100015938282,
+          0.48952099680900574,
+          0.48952099680900574
+        ]
+      },
+      "role": "wall_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 7,
+      "source": {
+        "actor": "MI_Puddle01_32"
+      },
+      "t": {
+        "p": [
+          638.569990234375,
+          231.10253481265804,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          -245.46459007263184,
+          0.0
+        ],
+        "s": [
+          0.06543300300836563,
+          0.6326479911804199,
+          0.5189210176467896
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Puddle01_2.MI_Puddle01_2",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 7,
+      "source": {
+        "actor": "MI_BloodDecal02_55"
+      },
+      "t": {
+        "p": [
+          644.81974609375,
+          209.2682647705078,
+          2.0
+        ],
+        "r": [
+          -90.0,
+          15.00616455078125,
+          0.0
+        ],
+        "s": [
+          0.0735199972987175,
+          0.3097800016403198,
+          0.5566629767417908
+        ]
+      },
+      "role": "floor_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_Dirt01_1.MI_Dirt01_1",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 7,
+      "source": {
+        "actor": "MI_BloodDecal7_75"
+      },
+      "t": {
+        "p": [
+          550,
+          449,
+          119.67010498046875
+        ],
+        "r": [
+          4.1961669921874986e-05,
+          90,
+          100.17297363281249
+        ],
+        "s": [
+          0.021211015060544014,
+          0.48952099680900574,
+          0.48952099680900574
+        ]
+      },
+      "role": "wall_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal01.MI_BloodDecal01",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    },
+    {
+      "room": 7,
+      "source": {
+        "actor": "MI_BloodDecal9"
+      },
+      "t": {
+        "p": [
+          665,
+          449,
+          245.256103515625
+        ],
+        "r": [
+          4.1999999666586525e-05,
+          90,
+          90.5315246582031
+        ],
+        "s": [
+          0.02121100015938282,
+          0.597657322883606,
+          0.19702814519405365
+        ]
+      },
+      "role": "wall_decal",
+      "material": "/Game/Asylum/Materials/Decals/MI_BloodDecal02_2.MI_BloodDecal02_2",
+      "projection_depth_cm": 8,
+      "preserve_source_plane_scale": true
+    }
+  ]
+}
